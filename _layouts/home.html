@@ -21,9 +21,6 @@ layout: default
     {% if page.layout == 'home' or page.collection == 'hometab' %}
       {% assign tab_key = page.title | downcase %}
       {% assign title = site.data.locales[site.lang].hometab[tab_key] | default: page.title %}
-      <h1 class="dynamic-title">
-        {{ title }}
-      </h1>
       <div class="post-content">
         {{ _content }}
       </div>
