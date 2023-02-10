@@ -133,7 +133,7 @@ collections:
   tabs:
     output: true
     sort_by: order
-  homepage:
+  hometab:
     output: true
     sort_by: order
 
@@ -160,9 +160,9 @@ defaults:
       permalink: /:title/
   - scope:
       path: ''
-      type: homepage
+      type: hometab             # see `site.collections`
     values:
-      layout: homepage
+      layout: home
       permalink: /
   - scope:
       path: assets/img/favicons

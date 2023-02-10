@@ -11,14 +11,16 @@ layout: default
     <div class="post pl-1 pr-1 pl-md-2 pr-md-2">
 
     {% capture _content %}
-      {% if layout.refactor or page.layout == 'homepage' %}
+      {% if layout.refactor or page.layout == 'home' %}
         {% include refactor-content.html content=content %}
       {% else %}
         {{ content }}
       {% endif %}
     {% endcapture %}
 
-    {% if page.layout == 'homepage' or page.collection == 'homepage' %}
+    {% if page.layout == 'home' or page.collection == 'hometab' %}
+      {% assign tab_key = page.title | downcase %}
+      {% assign title = site.data.locales[site.lang].hometab[tab_key] | default: page.title %}
       <h1 class="dynamic-title">
         {{ title }}
       </h1>

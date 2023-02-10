@@ -1,11 +1,10 @@
 ---
-layout: homepage
+layout: home
 order: 1
 ---
 
-
 <div style="float: right;">
-    <img src="baucas_id.jpg" alt="Baucas ID" style="height: 221px; width:160px; float: right;"/>
+    <img src="https://mjbaucas.github.io/assets/img/baucas_id.jpg" class=" lazyloaded" alt="Baucas ID" style="height: 221px; width:160px; float: right;"/>
 </div>
 
 # Marc Jayson Baucas
@@ -30,10 +29,10 @@ PH.D. Candidate at the [School of Engineering](https://www.uoguelph.ca/engineeri
         <i class="fab fa-researchgate fa-2x" style="padding: 3px;"></i>
     </a>
     <a href="https://scholar.google.com/citations?user=ZjfLF-wAAAAJ&hl=en">
-        <i class="fa fa-square fa-2x" style="padding: 3px;"></i>
+        <i class="ai ai-google-scholar fa-2x" style="padding: 3px;"></i>
     </a>
     <a href="https://ieeexplore.ieee.org/author/37086934817">
-        <i class="fa fa-square fa-2x" style="padding: 3px;"></i>
+        <i class="ai ai-ieee fa-2x" style="padding: 3px;"></i>
     </a>
 </div>
 
