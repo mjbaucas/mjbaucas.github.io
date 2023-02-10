@@ -1,7 +1,9 @@
 ---
 layout: page
+icon: fa fa-book
 order: 2
 ---
+
 Journals
 ---------
 6. [Federated Learning and Blockchain-Enabled Fog-IoT Platform for Wearables in Predictive Healthcare](https://arxiv.org/pdf/2301.04511.pdf) \\

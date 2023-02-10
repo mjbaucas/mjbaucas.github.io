@@ -1,5 +1,6 @@
 ---
 layout: page
+icon: fa fa-pen
 order: 3
 ---
 
