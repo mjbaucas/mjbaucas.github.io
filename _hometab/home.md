@@ -1,5 +1,6 @@
 ---
 layout: home
+icon: fa fa-home
 order: 1
 ---
 
@@ -12,27 +13,27 @@ PH.D. Candidate at the [School of Engineering](https://www.uoguelph.ca/engineeri
 
 ###### Social Contacts:
 <div>
-    <a href="javascript:location.href = 'mailto:' + ['baucas','uoguelph.ca'].join('@')" aria-label="email">
-        <i class="fas fa-envelope fa-2x" style="padding: 3px;"></i>
+    <a class="no-decor" href="javascript:location.href = 'mailto:' + ['baucas','uoguelph.ca'].join('@')" aria-label="email" >
+        <i class="fas fa-envelope-square fa-2x" style="padding: 3px;"></i>
     </a>
-    <a href="https://www.linkedin.com/in/marc-jayson-baucas-1189a0a6/">
+    <a class="no-decor" href="https://www.linkedin.com/in/marc-jayson-baucas-1189a0a6/">
         <i class="fab fa-linkedin fa-2x" style="padding: 3px;"></i>
     </a>
 </div>
 
 ###### Research Links:
 <div>
-    <a href="https://github.com/mjbaucas/">
-        <i class="fab fa-github fa-2x" style="padding: 3px;"></i>
+    <a class="no-decor" href="https://github.com/mjbaucas/">
+        <i class="fab fa-github-square fa-2x" style="padding: 3px;"></i>
     </a>
-    <a href="https://www.researchgate.net/profile/Marc-Jayson-Baucas">
-        <i class="fab fa-researchgate fa-2x" style="padding: 3px;"></i>
+    <a class="no-decor" href="https://www.researchgate.net/profile/Marc-Jayson-Baucas" >
+        <i class="ai ai-researchgate-square fa-2x" style="padding: 3px;"></i>
     </a>
-    <a href="https://scholar.google.com/citations?user=ZjfLF-wAAAAJ&hl=en">
-        <i class="ai ai-google-scholar fa-2x" style="padding: 3px;"></i>
+    <a class="no-decor" href="https://scholar.google.com/citations?user=ZjfLF-wAAAAJ&hl=en">
+        <i class="ai ai-google-scholar-square fa-2x" style="padding: 3px;"></i>
     </a>
-    <a href="https://ieeexplore.ieee.org/author/37086934817">
-        <i class="ai ai-ieee fa-2x" style="padding: 3px;"></i>
+    <a class="no-decor" href="https://ieeexplore.ieee.org/author/37086934817">
+        <i class="ai ai-ieee-square fa-2x" style="padding: 3px;"></i>
     </a>
 </div>
 
