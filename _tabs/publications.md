@@ -6,6 +6,10 @@ order: 2
 
 Journals
 ---------
+0. [Federated Kalman Filter for Secure IoT-based Device Monitoring Services]() \\
+MJ Baucas, P Spachos \\
+in IEEE Networking Letters, accepted 
+
 0. [Federated Learning and Blockchain-Enabled Fog-IoT Platform for Wearables in Predictive Healthcare](https://arxiv.org/pdf/2301.04511.pdf) \\
 MJ Baucas, P Spachos, KN Plataniotis \\
 in IEEE Transactions on Computational Social Systems, pg.1-10, January 2023 
