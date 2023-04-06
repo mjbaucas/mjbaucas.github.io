@@ -6,7 +6,7 @@ order: 2
 
 Journals
 ---------
-0. [Federated Kalman Filter for Secure IoT-based Device Monitoring Services]() \\
+0. [Federated Kalman Filter for Secure IoT-based Device Monitoring Services](https://arxiv.org/pdf/2304.00991.pdf) \\
 MJ Baucas, P Spachos \\
 in IEEE Networking Letters, accepted 
 
@@ -38,6 +38,10 @@ in Elsevier Computer Communications, vol.153, pg302-310, March 2020
 
 Conference Papers
 ------------------
+0. [Private Blockchain-Based Wireless Body Area Network Platform for Wearable Internet of Thing Devices in Healthcare]() \\
+MJ Baucas, P Spachos, S Gregori \\
+in 2023 IEEE International Conference on Communications (ICC), accepted
+
 0. [Permissioned Blockchain Reinforced API Platform for Data Management in IoT-based Sensor Networks](http://www.pspachos.net/pubs/GB2021.pdf) \\
 MJ Baucas, P Spachos \\
 in 2021 IEEE Global Communications Conference (GLOBECOM), pg.1-6, December 2021 
