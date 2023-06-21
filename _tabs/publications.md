@@ -6,6 +6,10 @@ order: 2
 
 Journals
 ---------
+0. [Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition]() \\
+MJ Baucas, P Spachos \\
+in IEEE Sensors Journal, accepted 
+
 0. [Federated Kalman Filter for Secure IoT-based Device Monitoring Services](https://arxiv.org/pdf/2304.00991.pdf) \\
 MJ Baucas, P Spachos \\
 in IEEE Networking Letters, accepted 
