@@ -47,11 +47,12 @@ I am in my last year as a Ph.D. candidate at the School of Enginnering of the Un
 
 ---
 ## News
+**June 7, 2023** - Acceptance of Journal paper, "Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition", at [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
 
-**March 26, 2023** - Acceptance of Journal paper "Federated Kalman Filter for Secure IoT-based Device Monitoring Services", at [IEEE Networking Letters ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8253410)
+**March 26, 2023** - Acceptance of Journal paper, "Federated Kalman Filter for Secure IoT-based Device Monitoring Services", at [IEEE Networking Letters ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8253410)
 
-**January 18, 2023** - Acceptance of Conference paper "Private Blockchain-Based Wireless Body Area Network Platform for Wearable Internet of Thing Devices in Healthcare", at [2023 IEEE International Conference on Communications (ICC)](https://icc2023.ieee-icc.org/)
+**January 18, 2023** - Acceptance of Conference paper, "Private Blockchain-Based Wireless Body Area Network Platform for Wearable Internet of Thing Devices in Healthcare", at [2023 IEEE International Conference on Communications (ICC)](https://icc2023.ieee-icc.org/)
 
-**December 22, 2022** - Acceptance of Journal paper "Federated Learning and Blockchain-Enabled Fog-IoT Platform for Wearables in Predictive Healthcare", at [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650)
+**December 22, 2022** - Acceptance of Journal paper, "Federated Learning and Blockchain-Enabled Fog-IoT Platform for Wearables in Predictive Healthcare", at [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650)
 
 ---
