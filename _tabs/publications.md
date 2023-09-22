@@ -42,6 +42,10 @@ in Elsevier Computer Communications, vol.153, pg302-310, March 2020
 
 Conference Papers
 ------------------
+0. [Fog-based Smart Contract Platform for Wearable IoT-enabled Telemedicine]() \\
+MJ Baucas, P Spachos \\
+in 2023 IEEE Global Communications Conference (GLOBECOM), accepted
+
 0. [Private Blockchain-Based Wireless Body Area Network Platform for Wearable Internet of Thing Devices in Healthcare]() \\
 MJ Baucas, P Spachos, S Gregori \\
 in 2023 IEEE International Conference on Communications (ICC), accepted

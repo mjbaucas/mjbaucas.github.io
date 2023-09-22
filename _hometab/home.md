@@ -43,10 +43,12 @@ PH.D. Candidate at the [School of Engineering](https://www.uoguelph.ca/engineeri
 My research interests are IoT security applications using wearable IoT devices, fog-IoT, blockchain technologies, and federated learning.
 
 ### Short Bio
-I am in my last year as a Ph.D. candidate at the School of Enginnering of the University of Guelph, Ontario, Canada, from which I received a B.Eng degree in Computer Engineering in 2018 and an M.A.Sc. in Engineering Systems and Computing in 2020. 
+I am in my last year as a Ph.D. graduate at the School of Enginnering of the University of Guelph, Ontario, Canada, from which I received a B.Eng degree in Computer Engineering in 2018 and an M.A.Sc. in Engineering Systems and Computing in 2020. 
 
 ---
 ## News
+**August 4, 2023** - Acceptance of Conference paper, "Fog-based Smart Contract Platform for Wearable IoT-enabled Telemedicine", at [2023 IEEE Global Communications Conference](https://globecom2023.ieee-globecom.org/)
+
 **June 7, 2023** - Acceptance of Journal paper, "Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition", at [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
 
 **March 26, 2023** - Acceptance of Journal paper, "Federated Kalman Filter for Secure IoT-based Device Monitoring Services", at [IEEE Networking Letters ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8253410)

@@ -6,6 +6,10 @@ order: 3
 
 Teaching Assistant
 ------------------
+* **ENGG 6600 - ST: Internet of Things** (Summer 2023) \\
+  *School of Engineering, University of Guelph, Guelph, ON* \\
+    * Marked assignments that challenged the student’s knowledge and understanding of the main components of an IoT system: sensors, networking, and data analysis. Also, evaluated literature surveys on the different IoT systems and their contributions to future academic and industry work in Smart Cities.
+
 * **ENGG 3410 - Systems and Control Theory** (Winter 2023) \\
   *School of Engineering, University of Guelph, Guelph, ON* \\
     * Led tutorials that reviewed topics and aspects of the course taught during the lecture. Also, provided supplementing discussions on methods to solving different systems and control theory problems. 
@@ -17,7 +21,7 @@ Teaching Assistant
     * Assisted in a lab requiring the designing of a PID controller using the STM32 board and applying the different concepts of real-time operating systems such as; Mutexes, Semaphores, and Queues. 
     * Supervised and evaluated a project requiring the creation of a real-time Intruder Detection System (IDS) using a motion sensor and an HD camera that is controlled by the STM32 board. 
 
-* **ENGG 6600 - Software Architecture of AI Systems** (Summer 2022) \\
+* **ENGG 6600 - ST: Software Architecture of AI Systems** (Summer 2022) \\
   *School of Engineering, University of Guelph, Guelph, ON* \\
     * Marked assignments and labs requiring students to implement and modify AI systems for data processing and training within classifiers. Used Jupyter notebooks to create simulations that classify different types of raw data. 
 
