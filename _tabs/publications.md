@@ -48,26 +48,26 @@ in 2023 IEEE Global Communications Conference (GLOBECOM), accepted (Kuala Lumpur
 
 0. [Private Blockchain-Based Wireless Body Area Network Platform for Wearable Internet of Thing Devices in Healthcare]() \\
 MJ Baucas, P Spachos, S Gregori \\
-in 2023 IEEE International Conference on Communications (ICC), accepted (Rome, Italy)
+in 2023 IEEE International Conference on Communications (ICC), June 2023 (Rome, Italy)
 
 0. [Permissioned Blockchain Reinforced API Platform for Data Management in IoT-based Sensor Networks](http://www.pspachos.net/pubs/GB2021.pdf) \\
 MJ Baucas, P Spachos \\
-in 2021 IEEE Global Communications Conference (GLOBECOM), pg.1-6, December 2021 (Virtual Conference)
+in 2021 IEEE Global Communications Conference (GLOBECOM), December 2021 (Virtual Conference)
 
 0. [Fog and Iot-Based Remote Patient Monitoring Architecture Using Speech Recognition](http://www.pspachos.net/pubs/ISCC20202.pdf) \\
 MJ Baucas, P Spachos \\
-in 2020 IEEE Symposium on Computers and Communications (ISCC), pg.1-6, July 2020 (Virtual Conference)
+in 2020 IEEE Symposium on Computers and Communications (ISCC), July 2020 (Virtual Conference)
 
 0. [Permissioned Blockchain-Driven Internet of Things Gateway Using Bluetooth Low Energy](http://www.pspachos.net/pubs/ICC2020.pdf) \\
 MJ Baucas, P Spachos \\
-in 2020 IEEE International Conference on Communications (ICC) , pg.1-6, June 2020 (Virtual Conference)
+in 2020 IEEE International Conference on Communications (ICC) , June 2020 (Virtual Conference)
 
 0. [Speech Recognition Driven Assistive Framework for Remote Patient Monitoring](https://www.researchgate.net/profile/P-Spachos/publication/338944320_Speech_Recognition_Driven_Assistive_Framework_for_Remote_Patient_Monitoring/links/5e3d3b70299bf1cdb9151102/Speech-Recognition-Driven-Assistive-Framework-for-Remote-Patient-Monitoring.pdf) \\
 MJ Baucas, P Spachos \\
-in 2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP), pg.1-5, November 2019 (Ottawa, Canada)
+in 2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP), November 2019 (Ottawa, Canada)
 
 0. [A Testbed for Adaptive Microphones in Ultra-Low-Power Systems](http://www.pspachos.net/pubs/ICT20192.pdf) \\
 E Fallis, M Lipski, A Mackey, MJ Baucas, M James, P Spachos, S Gregori \\
-in 2019 IEEE Sustainability through ICT Summit (StICT), pg.1-6, June 2019 (Montreal, Canada)
+in 2019 IEEE Sustainability through ICT Summit (StICT), June 2019 (Montreal, Canada)
 {: reversed="reversed"}
 
