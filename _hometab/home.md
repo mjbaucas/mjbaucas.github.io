@@ -43,7 +43,7 @@ Recent PH.D. Graduate (2023) at the [School of Engineering](https://www.uoguelph
 My research interests are IoT security applications using wearable IoT devices, fog-IoT, blockchain technologies, and federated learning.
 
 ### Short Bio
-I have recently graduated with my Ph.D. degree at the School of Enginnering of the University of Guelph, Ontario, Canada in 2023, from where I also obtained a B.Eng degree in Computer Engineering in 2018 and an M.A.Sc. in Engineering Systems and Computing in 2020. 
+I am currently a Postdoctoral Researcher at the University of Guelph. I graduated with my Ph.D. degree at the School of Enginnering of the University of Guelph, Ontario, Canada in 2023, from where I also obtained an M.A.Sc. in Engineering Systems and Computing in 2020 and a B.Eng degree in Computer Engineering in 2018. 
 
 ---
 ## News
