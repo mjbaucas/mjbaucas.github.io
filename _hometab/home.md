@@ -47,14 +47,14 @@ I am currently a Postdoctoral Researcher at the University of Guelph. I graduate
 
 ---
 ## News
+**April 3, 2024** - Acceptance of Journal paper, "Edge-based Data Sensing and Processing Platform for Urban Noise Classification", at [IEEE Sensors Letters ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782634)
+
+**March 30, 2024** - Acceptance of Journal paper, "Secure Private Blockchain-based Instant Messaging Platform for Social Media Services", at [IEEE Networking Letters ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8253410)
+
 **January 16, 2024** - Acceptance of Conference paper, "Federated Learning Platform for Secure Object Recognition in Connected and Autonomous Vehicles", at [2024 IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/)
 
 **August 4, 2023** - Acceptance of Conference paper, "Fog-based Smart Contract Platform for Wearable IoT-enabled Telemedicine", at [2023 IEEE Global Communications Conference](https://globecom2023.ieee-globecom.org/)
 
 **June 7, 2023** - Acceptance of Journal paper, "Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition", at [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
-
-**March 26, 2023** - Acceptance of Journal paper, "Federated Kalman Filter for Secure IoT-based Device Monitoring Services", at [IEEE Networking Letters ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8253410)
-
-**January 18, 2023** - Acceptance of Conference paper, "Private Blockchain-Based Wireless Body Area Network Platform for Wearable Internet of Thing Devices in Healthcare", at [2023 IEEE International Conference on Communications (ICC)](https://icc2023.ieee-icc.org/)
 
 ---
