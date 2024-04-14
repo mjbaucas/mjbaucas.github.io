@@ -64,11 +64,13 @@ in 2023 IEEE International Conference on Communications (ICC), June 2023 (Rome, 
 
 0. [Permissioned Blockchain Reinforced API Platform for Data Management in IoT-based Sensor Networks](http://www.pspachos.net/pubs/GB2021.pdf) \\
 MJ Baucas, P Spachos \\
-in 2021 IEEE Global Communications Conference (GLOBECOM), December 2021 (Madrid, Spain (Hybrid: In-Person and Virtual Conference)).
+in 2021 IEEE Global Communications Conference (GLOBECOM), December 2021 (Madrid, Spain). \\
+*Hybrid: In-Person and Virtual Conference*.
 
 0. [Fog and Iot-Based Remote Patient Monitoring Architecture Using Speech Recognition](http://www.pspachos.net/pubs/ISCC20202.pdf) \\
 MJ Baucas, P Spachos \\
-in 2020 IEEE Symposium on Computers and Communications (ISCC), July 2020 (Rennes, France (Hybrid: In-Person and Virtual Conference)).
+in 2020 IEEE Symposium on Computers and Communications (ISCC), July 2020 (Rennes, France). \\
+*Hybrid: In-Person and Virtual Conference*.
 
 0. [Permissioned Blockchain-Driven Internet of Things Gateway Using Bluetooth Low Energy](http://www.pspachos.net/pubs/ICC2020.pdf) \\
 MJ Baucas, P Spachos \\
