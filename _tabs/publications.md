@@ -6,25 +6,25 @@ order: 2
 
 Journals
 ---------
-0. [Edge-based Data Sensing and Processing Platform for Urban Noise Classification]() \\
-MJ Baucas, P Spachos \\
-in IEEE Sensors Letters, accepted.
-
 0. [Secure Private Blockchain-based Instant Messaging Platform for Social Media Services]() \\
 MJ Baucas, P Spachos \\
 in IEEE Networking Letters, accepted.
 
+0. [Edge-based Data Sensing and Processing Platform for Urban Noise Classification]() \\
+MJ Baucas, P Spachos \\
+in IEEE Sensors Letters, vol. 8, no.5, May 2024.
+
 0. [Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition]() \\
 MJ Baucas, P Spachos \\
-in IEEE Sensors Journal, vol. 23, no. 15, pp. 17611-17618, Aug. 2023. 
+in IEEE Sensors Journal, vol. 23, no. 15, pg. 17611-17618, Aug. 2023. 
 
 0. [Federated Kalman Filter for Secure IoT-based Device Monitoring Services](https://arxiv.org/pdf/2304.00991.pdf) \\
 MJ Baucas, P Spachos \\
-in IEEE Networking Letters, vol. 5, no. 2, pp. 91-94, June 2023. 
+in IEEE Networking Letters, vol. 5, no. 2, pg. 91-94, June 2023. 
 
 0. [Federated Learning and Blockchain-Enabled Fog-IoT Platform for Wearables in Predictive Healthcare](https://arxiv.org/pdf/2301.04511.pdf) \\
 MJ Baucas, P Spachos, KN Plataniotis \\
-in IEEE Transactions on Computational Social Systems, pg.1-10, January 2023. 
+in IEEE Transactions on Computational Social Systems, pg. 1732 - 1741, January 2023. 
 
 0. [Public-Key Reinforced Blockchain Platform for Fog-IoT Network System Administration](https://arxiv.org/pdf/2108.05248.pdf) \\
 MJ Baucas, P Spachos, KN Plataniotis \\
@@ -44,7 +44,7 @@ in Elsevier Simulation Modelling Practice and Theory, vol.101, May 2020.
 
 0. [A Scalable IoT-Fog Framework for Urban Sound Sensing](https://arxiv.org/pdf/2002.01376.pdf) \\
 MJ Baucas, P Spachos \\
-in Elsevier Computer Communications, vol.153, pg302-310, March 2020. 
+in Elsevier Computer Communications, vol.153, pg. 302-310, March 2020. 
 {: reversed="reversed"}
 ---
 
