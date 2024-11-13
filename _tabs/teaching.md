@@ -3,6 +3,13 @@ layout: page
 icon: fa fa-pen
 order: 3
 ---
+Sessional Lecturer
+------------------
+* **ENGG 6600 - ST: Wearable IoT Applications (Summer 2024) \\
+  *School of Engineering, University of GUelph, Guelph, ON* \\
+    * Introduced the current trends in wearable IoT applications, discussing some commonly used sensors for collecting data. 
+    * Designed the course's curriculum with hybrid of in-class lectures and lab activities that introduce the trending topics and technological developments in the field of wearable IoT devices. 
+
 
 Teaching Assistant
 ------------------

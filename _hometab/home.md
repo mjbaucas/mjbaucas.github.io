@@ -40,21 +40,22 @@ Recent PH.D. Graduate (2023) at the [School of Engineering](https://www.uoguelph
 
 ---
 ### Research Interests
-My research interests are IoT security applications using wearable IoT devices, fog-IoT, blockchain technologies, and federated learning.
+My research interests are IoT security applications using wearable IoT devices, fog computing, blockchain technologies, federated learning, and large language models.
 
 ### Short Bio
 I am currently a Postdoctoral Researcher at the University of Guelph. I graduated with my Ph.D. degree at the School of Enginnering of the University of Guelph, Ontario, Canada in 2023, from where I also obtained an M.A.Sc. in Engineering Systems and Computing in 2020 and a B.Eng degree in Computer Engineering in 2018. 
 
 ---
 ## News
+**
+**September 29, 2024** - Acceptance of Conference paper, "Secure Social Network Applications via Private Blockchain and End-to-End Encryption", at [IEEE Global Communications Conference 2024](https://globecom2024.ieee-globecom.org/)
+
+**July 21, 2024** - Acceptance of Conference paper, "Formation Control Design for Remote Field Monitoring with IoT-enabled Mobile Robots", at [IEEE World Forum on Internet of Things 2024](https://wfiot2024.iot.ieee.org/)
+
 **April 3, 2024** - Acceptance of Journal paper, "Edge-based Data Sensing and Processing Platform for Urban Noise Classification", at [IEEE Sensors Letters ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782634)
 
 **March 30, 2024** - Acceptance of Journal paper, "Secure Private Blockchain-based Instant Messaging Platform for Social Media Services", at [IEEE Networking Letters ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8253410)
 
-**January 16, 2024** - Acceptance of Conference paper, "Federated Learning Platform for Secure Object Recognition in Connected and Autonomous Vehicles", at [2024 IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/)
-
-**August 4, 2023** - Acceptance of Conference paper, "Fog-based Smart Contract Platform for Wearable IoT-enabled Telemedicine", at [2023 IEEE Global Communications Conference](https://globecom2023.ieee-globecom.org/)
-
-**June 7, 2023** - Acceptance of Journal paper, "Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition", at [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
+**January 16, 2024** - Acceptance of Conference paper, "Federated Learning Platform for Secure Object Recognition in Connected and Autonomous Vehicles", at [2024 IEEE International Conference on Communications 2024 (ICC)](https://icc2024.ieee-icc.org/)
 
 ---

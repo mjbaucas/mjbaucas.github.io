@@ -8,15 +8,15 @@ Journals
 ---------
 0. [Secure Private Blockchain-based Instant Messaging Platform for Social Media Services]() \\
 MJ Baucas, P Spachos \\
-in IEEE Networking Letters, accepted.
+in IEEE Networking Letters,  vol. 6, no. 2, pg. 106-109, June 2024.
 
 0. [Edge-based Data Sensing and Processing Platform for Urban Noise Classification]() \\
 MJ Baucas, P Spachos \\
-in IEEE Sensors Letters, vol. 8, no.5, May 2024.
+in IEEE Sensors Letters, vol. 8, no.5, pg. 1-4, May 2024.
 
 0. [Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition]() \\
 MJ Baucas, P Spachos \\
-in IEEE Sensors Journal, vol. 23, no. 15, pg. 17611-17618, Aug. 2023. 
+in IEEE Sensors Journal, vol. 23, no. 15, pg. 17611-17618, August 2023. 
 
 0. [Federated Kalman Filter for Secure IoT-based Device Monitoring Services](https://arxiv.org/pdf/2304.00991.pdf) \\
 MJ Baucas, P Spachos \\
@@ -28,37 +28,45 @@ in IEEE Transactions on Computational Social Systems, pg. 1732 - 1741, January 2
 
 0. [Public-Key Reinforced Blockchain Platform for Fog-IoT Network System Administration](https://arxiv.org/pdf/2108.05248.pdf) \\
 MJ Baucas, P Spachos, KN Plataniotis \\
-in IEEE Internet of Things Journal, vol.9, no.22, pg.22366-22374, August 2021. 
+in IEEE Internet of Things Journal, vol. 9, no. 22, pg.22366-22374, August 2021. 
 
 0. [Internet-of-Things Devices and Assistive Technologies for Health Care: Applications, Challenges, and Opportunities](https://arxiv.org/pdf/2107.14112.pdf) \\
 MJ Baucas, P Spachos, S Gregori \\
-in IEEE Signal Processing Magazine, vol.38, no.4, pg.65-77, June 2021. 
+in IEEE Signal Processing Magazine, vol. 38, no. 4, pg.65-77, June 2021. 
 
 0. [IoT-Based Smart Home Device Monitor Using Private Blockchain Technology and Localization](https://arxiv.org/pdf/2103.15896.pdf) \\
 MJ Baucas, SA Gadsden, P Spachos \\
-in IEEE Networking Letters, vol.3, no.2, pg.52-55, March 2021. 
+in IEEE Networking Letters, vol. 3, no. 2, pg.52-55, March 2021. 
 
 0. [Using Cloud and Fog Computing for Large Scale IoT-Based Urban Sound Classification](https://arxiv.org/pdf/1910.07652.pdf) \\
 MJ Baucas, P Spachos \\
-in Elsevier Simulation Modelling Practice and Theory, vol.101, May 2020. 
+in Elsevier Simulation Modelling Practice and Theory, vol. 101, May 2020. 
 
 0. [A Scalable IoT-Fog Framework for Urban Sound Sensing](https://arxiv.org/pdf/2002.01376.pdf) \\
 MJ Baucas, P Spachos \\
-in Elsevier Computer Communications, vol.153, pg. 302-310, March 2020. 
+in Elsevier Computer Communications, vol. 153, pg. 302-310, March 2020. 
 {: reversed="reversed"}
 ---
 
 Conference Papers
 ------------------
+0. [Secure Social Network Applications via Private Blockchain and End-to-End Encryption]() \\
+MJ Baucas, P Spachos \\
+in 2024 IEEE Global Communications Conference (GLOBECOM), accepted (Cape Town, South Africa).
+
+0. [Formation Control Design for Remote Field Monitoring with IoT-enabled Mobile Robots]() \\
+MJ Baucas, Z Xu, P Spachos, SA Gadsden \\
+in 2024 IEEE World Forum on Internet of Things (WFIoT), accepted (Ottawa, Canada).
+
 0. [Federated Learning Platform for Secure Object Recognition in Connected and Autonomous Vehicles]() \\
 MJ Baucas, P Spachos, S Gregori \\
-in 2024 IEEE International Conference on Communications (ICC), accepted (Denver, Colorado, USA).
+in 2024 IEEE International Conference on Communications (ICC), June 2024 (Denver, Colorado, USA).
 
-0. [Fog-based Smart Contract Platform for Wearable IoT-enabled Telemedicine]() \\
+0. [Fog-based Smart Contract Platform for Wearable IoT-enabled Telemedicine](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/378500255_Fog-Based_Smart_Contract_Platform_for_Wearable_IoT-Enabled_Telemedicine/links/66330b0b08aa54017ad48c2f/Fog-Based-Smart-Contract-Platform-for-Wearable-IoT-Enabled-Telemedicine.pdf) \\
 MJ Baucas, P Spachos \\
 in 2023 IEEE Global Communications Conference (GLOBECOM), December 2023 (Kuala Lumpur, Malaysia).
 
-0. [Private Blockchain-Based Wireless Body Area Network Platform for Wearable Internet of Thing Devices in Healthcare]() \\
+0. [Private Blockchain-Based Wireless Body Area Network Platform for Wearable Internet of Thing Devices in Healthcare](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/374933738_Private_Blockchain-Based_Wireless_Body_Area_Network_Platform_for_Wearable_Internet_of_Thing_Devices_in_Healthcare/links/66330a8e35243041535814ed/Private-Blockchain-Based-Wireless-Body-Area-Network-Platform-for-Wearable-Internet-of-Thing-Devices-in-Healthcare.pdf) \\
 MJ Baucas, P Spachos, S Gregori \\
 in 2023 IEEE International Conference on Communications (ICC), June 2023 (Rome, Italy).
 
