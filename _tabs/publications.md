@@ -51,7 +51,7 @@ in Elsevier Computer Communications, vol. 153, pg. 302-310, March 2020.
 Conference Papers
 ------------------
 0. [Private Blockchain-Based Edge IoT Platform for Secure Large Language Model Services]() \\
-MJ Baucas, P Spachos \\
+MJ Baucas, P Spachos, S Gregori \\
 in 2025 IEEE Wireless Communications and Networking Conference (WCNC), Accepted (Milan, Italy).
 
 0. [Secure Social Network Applications via Private Blockchain and End-to-End Encryption]() \\
