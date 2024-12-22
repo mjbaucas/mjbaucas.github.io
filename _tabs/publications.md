@@ -50,13 +50,17 @@ in Elsevier Computer Communications, vol. 153, pg. 302-310, March 2020.
 
 Conference Papers
 ------------------
+0. [Private Blockchain-Based Edge IoT Platform for Secure Large Language Model Services]() \\
+MJ Baucas, P Spachos \\
+in 2025 IEEE Wireless Communications and Networking Conference (WCNC), Accepted (Milan, Italy).
+
 0. [Secure Social Network Applications via Private Blockchain and End-to-End Encryption]() \\
 MJ Baucas, P Spachos \\
-in 2024 IEEE Global Communications Conference (GLOBECOM), accepted (Cape Town, South Africa).
+in 2024 IEEE Global Communications Conference (GLOBECOM), December 2024 (Cape Town, South Africa).
 
 0. [Formation Control Design for Remote Field Monitoring with IoT-enabled Mobile Robots]() \\
 MJ Baucas, Z Xu, P Spachos, SA Gadsden \\
-in 2024 IEEE World Forum on Internet of Things (WFIoT), accepted (Ottawa, Canada).
+in 2024 IEEE World Forum on Internet of Things (WFIoT), November 2024 (Ottawa, Canada).
 
 0. [Federated Learning Platform for Secure Object Recognition in Connected and Autonomous Vehicles]() \\
 MJ Baucas, P Spachos, S Gregori \\

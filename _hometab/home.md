@@ -47,10 +47,11 @@ I am currently a Postdoctoral Researcher at the University of Guelph. I graduate
 
 ---
 ## News
+**December 21, 2024** - Acceptance of Conference paper, "Private Blockchain-Based Edge IoT Platform for Secure Large Language Model Services", at [IEEE Wireless Communications and Networking Conference 2025 (WCNC)](https://wcnc2025.ieee-wcnc.org/)
 
-**September 29, 2024** - Acceptance of Conference paper, "Secure Social Network Applications via Private Blockchain and End-to-End Encryption", at [IEEE Global Communications Conference 2024](https://globecom2024.ieee-globecom.org/)
+**September 29, 2024** - Acceptance of Conference paper, "Secure Social Network Applications via Private Blockchain and End-to-End Encryption", at [IEEE Global Communications Conference 2024 (GLOBECOM)](https://globecom2024.ieee-globecom.org/)
 
-**July 21, 2024** - Acceptance of Conference paper, "Formation Control Design for Remote Field Monitoring with IoT-enabled Mobile Robots", at [IEEE World Forum on Internet of Things 2024](https://wfiot2024.iot.ieee.org/)
+**July 21, 2024** - Acceptance of Conference paper, "Formation Control Design for Remote Field Monitoring with IoT-enabled Mobile Robots", at [IEEE World Forum on Internet of Things 2024 (WF-IoT)](https://wfiot2024.iot.ieee.org/)
 
 **April 3, 2024** - Acceptance of Journal paper, "Edge-based Data Sensing and Processing Platform for Urban Noise Classification", at [IEEE Sensors Letters ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782634)
 
