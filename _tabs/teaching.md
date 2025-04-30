@@ -5,8 +5,12 @@ order: 3
 ---
 Sessional Lecturer
 ------------------
+* **ENGG 4560 - Embedded System Design** (Winter 2025) \\
+  *School of Engineering, University of Guelph, Guelph, ON* \\
+    * Introduced the different aspects of embedded systems design, discussing different relevant topics such as system-on-chip design, embedded programming and analysis, and different embedded system applications and implementations. 
+    
 * **ENGG 6600 - ST: Wearable IoT Applications** (Summer 2024) \\
-  *School of Engineering, University of GUelph, Guelph, ON* \\
+  *School of Engineering, University of Guelph, Guelph, ON* \\
     * Introduced the current trends in wearable IoT applications, discussing some commonly used sensors for collecting data. 
     * Designed the course's curriculum with hybrid of in-class lectures and lab activities that introduce the trending topics and technological developments in the field of wearable IoT devices. 
 
