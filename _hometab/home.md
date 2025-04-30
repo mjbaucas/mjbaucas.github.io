@@ -47,7 +47,7 @@ I am currently a Postdoctoral Researcher at the University of Guelph. I graduate
 
 ---
 ## News
-**April 25, 2025** - Acceptance of Conference paper, "Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices", at [IEEE International Symposium on Medical Measurements and Applications (MeMeA)](https://memea2025.ieee-ims.org/)
+**April 25, 2025** - Acceptance of Conference paper, "Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices", at [IEEE International Symposium on Medical Measurements and Applications 2025 (MeMeA)](https://memea2025.ieee-ims.org/)
 
 **January 17, 2025** - Acceptance of Conference paper, "Private Blockchain and Federated Learning-based Edge-IoT Platform for Secure Urban Noise Monitoring", at [IEEE International Conference on Communications 2025 (ICC)](https://icc2025.ieee-icc.org/)
 
