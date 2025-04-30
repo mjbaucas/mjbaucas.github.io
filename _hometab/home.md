@@ -47,16 +47,13 @@ I am currently a Postdoctoral Researcher at the University of Guelph. I graduate
 
 ---
 ## News
+**April 25, 2025** - Acceptance of Conference paper, "Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices", at [IEEE International Symposium on Medical Measurements and Applications (MeMeA)](https://memea2025.ieee-ims.org/)
+
+**January 17, 2025** - Acceptance of Conference paper, "Private Blockchain and Federated Learning-based Edge-IoT Platform for Secure Urban Noise Monitoring", at [IEEE International Conference on Communications 2025 (ICC)](https://icc2025.ieee-icc.org/)
+
 **December 21, 2024** - Acceptance of Conference paper, "Private Blockchain-Based Edge IoT Platform for Secure Large Language Model Services", at [IEEE Wireless Communications and Networking Conference 2025 (WCNC)](https://wcnc2025.ieee-wcnc.org/)
 
 **September 29, 2024** - Acceptance of Conference paper, "Secure Social Network Applications via Private Blockchain and End-to-End Encryption", at [IEEE Global Communications Conference 2024 (GLOBECOM)](https://globecom2024.ieee-globecom.org/)
 
 **July 21, 2024** - Acceptance of Conference paper, "Formation Control Design for Remote Field Monitoring with IoT-enabled Mobile Robots", at [IEEE World Forum on Internet of Things 2024 (WF-IoT)](https://wfiot2024.iot.ieee.org/)
-
-**April 3, 2024** - Acceptance of Journal paper, "Edge-based Data Sensing and Processing Platform for Urban Noise Classification", at [IEEE Sensors Letters ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782634)
-
-**March 30, 2024** - Acceptance of Journal paper, "Secure Private Blockchain-based Instant Messaging Platform for Social Media Services", at [IEEE Networking Letters ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8253410)
-
-**January 16, 2024** - Acceptance of Conference paper, "Federated Learning Platform for Secure Object Recognition in Connected and Autonomous Vehicles", at [2024 IEEE International Conference on Communications 2024 (ICC)](https://icc2024.ieee-icc.org/)
-
 ---
