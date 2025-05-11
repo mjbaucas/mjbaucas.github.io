@@ -66,11 +66,11 @@ in 2025 IEEE Wireless Communications and Networking Conference (WCNC), March 202
 MJ Baucas, P Spachos \\
 in 2024 IEEE Global Communications Conference (GLOBECOM), December 2024 (Cape Town, South Africa).
 
-0. [Formation Control Design for Remote Field Monitoring with IoT-enabled Mobile Robots]() \\
+0. [Formation Control Design for Remote Field Monitoring with IoT-enabled Mobile Robots](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/387548801_Formation_Control_Design_for_Remote_Field_Monitoring_with_IoT-enabled_Mobile_Robots/links/677840d4894c55208541ca20/Formation-Control-Design-for-Remote-Field-Monitoring-with-IoT-enabled-Mobile-Robots.pdf) \\
 MJ Baucas, Z Xu, P Spachos, SA Gadsden \\
 in 2024 IEEE World Forum on Internet of Things (WFIoT), November 2024 (Ottawa, Canada).
 
-0. [Federated Learning Platform for Secure Object Recognition in Connected and Autonomous Vehicles]() \\
+0. [Federated Learning Platform for Secure Object Recognition in Connected and Autonomous Vehicles](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/383563780_Federated_Learning_Platform_for_Secure_Object_Recognition_in_Connected_and_Autonomous_Vehicles/links/67677c9800aa3770e0b2b0c8/Federated-Learning-Platform-for-Secure-Object-Recognition-in-Connected-and-Autonomous-Vehicles.pdf) \\
 MJ Baucas, P Spachos, S Gregori \\
 in 2024 IEEE International Conference on Communications (ICC), June 2024 (Denver, Colorado, USA).
 
