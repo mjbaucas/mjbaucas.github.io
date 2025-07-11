@@ -50,13 +50,13 @@ in Elsevier Computer Communications, vol. 153, pg. 302-310, March 2020.
 
 Conference Papers
 ------------------
-0. [Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices]() \\
-W Botros, MJ Baucas, P Spachos \\
-in 2025 IEEE International Symposium on Medical Measurements and Applications (MeMeA), Accepted (Chania, Greece).
-
 0. [Private Blockchain and Federated Learning-based Edge-IoT Platform for Secure Urban Noise Monitoring]() \\
 MJ Baucas, P Spachos \\
 in 2025 IEEE International Conference on Communications (ICC), Accepted (Montreal, Canada).
+
+0. [Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices]() \\
+W Botros, MJ Baucas, P Spachos \\
+in 2025 IEEE International Symposium on Medical Measurements and Applications (MeMeA), May 2025 (Chania, Greece).
 
 0. [Private Blockchain-Based Edge IoT Platform for Secure Large Language Model Services]() \\
 MJ Baucas, P Spachos, S Gregori \\
