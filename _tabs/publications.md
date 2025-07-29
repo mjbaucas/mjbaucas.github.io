@@ -58,7 +58,7 @@ in 2025 IEEE International Conference on Communications (ICC), Accepted (Montrea
 W Botros, MJ Baucas, P Spachos \\
 in 2025 IEEE International Symposium on Medical Measurements and Applications (MeMeA), May 2025 (Chania, Greece).
 
-0. [Private Blockchain-Based Edge IoT Platform for Secure Large Language Model Services]() \\
+0. [Private Blockchain-Based Edge IoT Platform for Secure Large Language Model Services](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/391609510_Private_Blockchain-Based_Edge_IoT_Platform_for_Secure_Large_Language_Model_Services/links/682022f4d1054b0207ee2b58/Private-Blockchain-Based-Edge-IoT-Platform-for-Secure-Large-Language-Model-Services.pdf) \\
 MJ Baucas, P Spachos, S Gregori \\
 in 2025 IEEE Wireless Communications and Networking Conference (WCNC), March 2025 (Milan, Italy).
 
