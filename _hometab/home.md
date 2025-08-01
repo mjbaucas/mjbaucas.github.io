@@ -56,4 +56,5 @@ I am currently a Postdoctoral Researcher at the University of Guelph. I graduate
 **January 17, 2025** - Acceptance of Conference paper, "Private Blockchain and Federated Learning-based Edge-IoT Platform for Secure Urban Noise Monitoring", at [IEEE International Conference on Communications 2025 (ICC)](https://icc2025.ieee-icc.org/)
 
 **December 21, 2024** - Acceptance of Conference paper, "Private Blockchain-Based Edge IoT Platform for Secure Large Language Model Services", at [IEEE Wireless Communications and Networking Conference 2025 (WCNC)](https://wcnc2025.ieee-wcnc.org/)
+
 ---
