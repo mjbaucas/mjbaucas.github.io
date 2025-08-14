@@ -72,7 +72,7 @@ in 2025 IEEE Wireless Communications and Networking Conference (WCNC), March 202
 
 0. [Secure Social Network Applications via Private Blockchain and End-to-End Encryption]() \\
 MJ Baucas, P Spachos \\
-in 2024 IEEE Global Communications Conference (GLOBECOM), December 2024 (Cape Town, South Africa).
+in 2024 IEEE Global Communications Conference Workshops (GC Wkshps), December 2024 (Cape Town, South Africa).
 
 0. [Formation Control Design for Remote Field Monitoring with IoT-enabled Mobile Robots](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/387548801_Formation_Control_Design_for_Remote_Field_Monitoring_with_IoT-enabled_Mobile_Robots/links/677840d4894c55208541ca20/Formation-Control-Design-for-Remote-Field-Monitoring-with-IoT-enabled-Mobile-Robots.pdf) \\
 MJ Baucas, Z Xu, P Spachos, SA Gadsden \\
