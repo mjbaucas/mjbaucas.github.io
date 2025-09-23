@@ -5,7 +5,7 @@ order: 1
 ---
 
 <div style="float: right;">
-    <img src="https://mjbaucas.github.io/assets/img/marcbaucas_prof.jpg" class=" lazyloaded" alt="Baucas ID" style="height: 221px; width:160px; float: right;"/>
+    <img src="https://mjbaucas.github.io/assets/img/marcbaucas_prof.jpg" class=" lazyloaded" alt="Baucas ID" style="height: 300px; width:220px; float: right;"/>
 </div>
 
 # Marc Jayson Baucas
