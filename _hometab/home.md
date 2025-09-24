@@ -47,6 +47,8 @@ I am currently a Postdoctoral Researcher at the University of Guelph. I graduate
 
 ---
 ## News
+**September 17, 2025** - Acceptance of Journal paper, "Edge-based Platform for Large Language Models Deployment in Internet of Things Applications", at [IEEE Networking Letters](https://www.comsoc.org/publications/journals/ieee-lnet)
+
 **July 31, 2025** - Acceptance of Conference paper, "Edge and Private Blockchain-based Medical LLM Deployment Platform for Scalable and Secure Patient Support Systems", at [IEEE Global Communications Conference 2025 (GLOBECOM)](https://globecom2025.ieee-globecom.org/)
 
 **July 31, 2025** - Acceptance of Conference paper, "Edge IoT-based Voice-Activated Health Monitoring System", at [IEEE Global Communications Conference 2025 (GLOBECOM)](https://globecom2025.ieee-globecom.org/)
@@ -54,7 +56,4 @@ I am currently a Postdoctoral Researcher at the University of Guelph. I graduate
 **April 25, 2025** - Acceptance of Conference paper, "Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices", at [IEEE International Symposium on Medical Measurements and Applications 2025 (MeMeA)](https://memea2025.ieee-ims.org/)
 
 **January 17, 2025** - Acceptance of Conference paper, "Private Blockchain and Federated Learning-based Edge-IoT Platform for Secure Urban Noise Monitoring", at [IEEE International Conference on Communications 2025 (ICC)](https://icc2025.ieee-icc.org/)
-
-**December 21, 2024** - Acceptance of Conference paper, "Private Blockchain-Based Edge IoT Platform for Secure Large Language Model Services", at [IEEE Wireless Communications and Networking Conference 2025 (WCNC)](https://wcnc2025.ieee-wcnc.org/)
-
 ---

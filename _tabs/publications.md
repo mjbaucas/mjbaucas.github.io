@@ -6,6 +6,10 @@ order: 2
 
 Journals
 ---------
+0. [Edge-based Platform for Large Language Models Deployment in Internet of Things Applications]() \\
+MJ Baucas, P Spachos \\
+in IEEE Networking Letters, Accepted.
+
 0. [Secure Private Blockchain-based Instant Messaging Platform for Social Media Services]() \\
 MJ Baucas, P Spachos \\
 in IEEE Networking Letters,  vol. 6, no. 2, pg. 106-109, June 2024.
@@ -70,7 +74,7 @@ in 2025 IEEE International Symposium on Medical Measurements and Applications (M
 MJ Baucas, P Spachos, S Gregori \\
 in 2025 IEEE Wireless Communications and Networking Conference (WCNC), March 2025 (Milan, Italy).
 
-0. [Secure Social Network Applications via Private Blockchain and End-to-End Encryption]() \\
+0. [Secure Social Network Applications via Private Blockchain and End-to-End Encryption](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/394466179_Secure_Social_Network_Applications_via_Private_Blockchain_and_End-To-End_Encryption/links/689cb248daa95834904ee224/Secure-Social-Network-Applications-via-Private-Blockchain-and-End-To-End-Encryption.pdf) \\
 MJ Baucas, P Spachos \\
 in 2024 IEEE Global Communications Conference Workshops (GC Wkshps), December 2024 (Cape Town, South Africa).
 
