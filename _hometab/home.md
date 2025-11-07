@@ -56,4 +56,5 @@ I am currently a Postdoctoral Researcher at the University of Guelph. I graduate
 **July 31, 2025** - Acceptance of Conference paper, "Edge IoT-based Voice-Activated Health Monitoring System", at [IEEE Global Communications Conference 2025 (GLOBECOM)](https://globecom2025.ieee-globecom.org/)
 
 **April 25, 2025** - Acceptance of Conference paper, "Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices", at [IEEE International Symposium on Medical Measurements and Applications 2025 (MeMeA)](https://memea2025.ieee-ims.org/)
+
 ---
