@@ -8,6 +8,10 @@ Journals
 ---------
 0. [Edge-based Platform for Large Language Models Deployment in Internet of Things Applications]() \\
 MJ Baucas, P Spachos \\
+in IEEE Open Journal of Instrumentation and Measurement, Accepted.
+
+0. [Edge-based Platform for Large Language Models Deployment in Internet of Things Applications]() \\
+MJ Baucas, P Spachos \\
 in IEEE Networking Letters, Accepted.
 
 0. [Secure Private Blockchain-based Instant Messaging Platform for Social Media Services]() \\
