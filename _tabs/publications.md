@@ -6,7 +6,7 @@ order: 2
 
 Journals
 ---------
-0. [Edge-based Platform for Large Language Models Deployment in Internet of Things Applications]() \\
+0. [Private Blockchain-based Fog-IoT Platform for Wearables in Healthcare]() \\
 MJ Baucas, P Spachos \\
 in IEEE Open Journal of Instrumentation and Measurement, Accepted.
 
