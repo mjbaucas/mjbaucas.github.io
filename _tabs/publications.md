@@ -8,7 +8,7 @@ Journals
 ---------
 0. [Private Blockchain-based Fog-IoT Platform for Wearables in Healthcare](https://ieeexplore.ieee.org/document/11231043) \\
 MJ Baucas, P Spachos \\
-in IEEE Open Journal of Instrumentation and Measurement, Accepted.
+in IEEE Open Journal of Instrumentation and Measurement, vol. 4, November 2025.
 
 0. [Edge-based Platform for Large Language Models Deployment in Internet of Things Applications](https://ieeexplore.ieee.org/document/11182309) \\
 MJ Baucas, P Spachos \\
@@ -32,7 +32,7 @@ in IEEE Networking Letters, vol. 5, no. 2, pg. 91-94, June 2023.
 
 0. [Federated Learning and Blockchain-Enabled Fog-IoT Platform for Wearables in Predictive Healthcare](https://ieeexplore.ieee.org/document/10018895) \\
 MJ Baucas, P Spachos, KN Plataniotis \\
-in IEEE Transactions on Computational Social Systems, pg. 1732 - 1741, January 2023. 
+in IEEE Transactions on Computational Social Systems, vol. 10, no. 4, pg. 1732 - 1741, January 2023. 
 
 0. [Public-Key Reinforced Blockchain Platform for Fog-IoT Network System Administration](https://ieeexplore.ieee.org/document/9515391) \\
 MJ Baucas, P Spachos, KN Plataniotis \\
