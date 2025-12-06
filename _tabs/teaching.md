@@ -7,16 +7,16 @@ Sessional Lecturer
 ------------------
 * **ENGG 3050 - Embedded Reconfigurable Computing Systems** (Fall 2025) \\
   *School of Engineering, University of Guelph, Guelph, ON* \\
-    * Introduces the anlysis, synthesis, and design of reconfigurable computing systems in embedded architectures, discussing how to implement these systems in FPGAs using VHDL and HLS. 
+    * Taught the synthesis and implementation of embedded system architectures, emphasizing FPGA design flows, VHDL and HLS toolchains, and emerging trends in reconfigurable computing systems.
 
 * **ENGG 4560 - Embedded System Design** (Winter 2025, 2026) \\
   *School of Engineering, University of Guelph, Guelph, ON* \\
-    * Introduced the different aspects of embedded systems design, discussing different relevant topics such as system-on-chip design, embedded programming and analysis, and different embedded system applications and implementations. 
+    * Taught core concepts of embedded systems design, covering system-on-chip design, embedded programming and analysis, and security-focused embedded system applications and implementations. 
     
 * **ENGG 6600 - ST: Wearable IoT Applications** (Summer 2024) \\
   *School of Engineering, University of Guelph, Guelph, ON* \\
-    * Introduced the current trends in wearable IoT applications, discussing some commonly used sensors for collecting data. 
-    * Designed the course's curriculum with hybrid of in-class lectures and lab activities that introduce the trending topics and technological developments in the field of wearable IoT devices. 
+    * Covered the current trends in wearable IoT applications and commonly used sensors for data collection. 
+    * Designed and delivered the hybrid-course curriculum in-class lectures and lab activities that introduce emerging topics and technological developments in healthcare-focused wearable IoT devices. 
 
 
 Teaching Assistant
