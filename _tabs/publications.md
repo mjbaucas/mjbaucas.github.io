@@ -6,51 +6,51 @@ order: 2
 
 Journals
 ---------
-0. [Private Blockchain-based Fog-IoT Platform for Wearables in Healthcare]() \\
+0. [Private Blockchain-based Fog-IoT Platform for Wearables in Healthcare](https://ieeexplore.ieee.org/document/11231043) \\
 MJ Baucas, P Spachos \\
 in IEEE Open Journal of Instrumentation and Measurement, Accepted.
 
-0. [Edge-based Platform for Large Language Models Deployment in Internet of Things Applications]() \\
+0. [Edge-based Platform for Large Language Models Deployment in Internet of Things Applications](https://ieeexplore.ieee.org/document/11182309) \\
 MJ Baucas, P Spachos \\
 in IEEE Networking Letters, Accepted.
 
-0. [Secure Private Blockchain-based Instant Messaging Platform for Social Media Services]() \\
+0. [Secure Private Blockchain-based Instant Messaging Platform for Social Media Services](https://ieeexplore.ieee.org/document/10496473) \\
 MJ Baucas, P Spachos \\
 in IEEE Networking Letters,  vol. 6, no. 2, pg. 106-109, June 2024.
 
-0. [Edge-based Data Sensing and Processing Platform for Urban Noise Classification]() \\
+0. [Edge-based Data Sensing and Processing Platform for Urban Noise Classification](https://ieeexplore.ieee.org/document/10506670) \\
 MJ Baucas, P Spachos \\
 in IEEE Sensors Letters, vol. 8, no.5, pg. 1-4, May 2024.
 
-0. [Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition]() \\
+0. [Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition](https://ieeexplore.ieee.org/document/10161723) \\
 MJ Baucas, P Spachos \\
 in IEEE Sensors Journal, vol. 23, no. 15, pg. 17611-17618, August 2023. 
 
-0. [Federated Kalman Filter for Secure IoT-based Device Monitoring Services](https://arxiv.org/pdf/2304.00991.pdf) \\
+0. [Federated Kalman Filter for Secure IoT-based Device Monitoring Services](https://ieeexplore.ieee.org/document/10092770) \\
 MJ Baucas, P Spachos \\
 in IEEE Networking Letters, vol. 5, no. 2, pg. 91-94, June 2023. 
 
-0. [Federated Learning and Blockchain-Enabled Fog-IoT Platform for Wearables in Predictive Healthcare](https://arxiv.org/pdf/2301.04511.pdf) \\
+0. [Federated Learning and Blockchain-Enabled Fog-IoT Platform for Wearables in Predictive Healthcare](https://ieeexplore.ieee.org/document/10018895) \\
 MJ Baucas, P Spachos, KN Plataniotis \\
 in IEEE Transactions on Computational Social Systems, pg. 1732 - 1741, January 2023. 
 
-0. [Public-Key Reinforced Blockchain Platform for Fog-IoT Network System Administration](https://arxiv.org/pdf/2108.05248.pdf) \\
+0. [Public-Key Reinforced Blockchain Platform for Fog-IoT Network System Administration](https://ieeexplore.ieee.org/document/9515391) \\
 MJ Baucas, P Spachos, KN Plataniotis \\
 in IEEE Internet of Things Journal, vol. 9, no. 22, pg.22366-22374, August 2021. 
 
-0. [Internet-of-Things Devices and Assistive Technologies for Health Care: Applications, Challenges, and Opportunities](https://arxiv.org/pdf/2107.14112.pdf) \\
+0. [Internet-of-Things Devices and Assistive Technologies for Health Care: Applications, Challenges, and Opportunities](https://ieeexplore.ieee.org/document/9467675) \\
 MJ Baucas, P Spachos, S Gregori \\
 in IEEE Signal Processing Magazine, vol. 38, no. 4, pg.65-77, June 2021. 
 
-0. [IoT-Based Smart Home Device Monitor Using Private Blockchain Technology and Localization](https://arxiv.org/pdf/2103.15896.pdf) \\
+0. [IoT-Based Smart Home Device Monitor Using Private Blockchain Technology and Localization](https://ieeexplore.ieee.org/document/9392008) \\
 MJ Baucas, SA Gadsden, P Spachos \\
 in IEEE Networking Letters, vol. 3, no. 2, pg.52-55, March 2021. 
 
-0. [Using Cloud and Fog Computing for Large Scale IoT-Based Urban Sound Classification](https://arxiv.org/pdf/1910.07652.pdf) \\
+0. [Using Cloud and Fog Computing for Large Scale IoT-Based Urban Sound Classification](https://www.sciencedirect.com/science/article/abs/pii/S1569190X19301431) \\
 MJ Baucas, P Spachos \\
 in Elsevier Simulation Modelling Practice and Theory, vol. 101, May 2020. 
 
-0. [A Scalable IoT-Fog Framework for Urban Sound Sensing](https://arxiv.org/pdf/2002.01376.pdf) \\
+0. [A Scalable IoT-Fog Framework for Urban Sound Sensing](https://www.sciencedirect.com/science/article/abs/pii/S0140366419312502) \\
 MJ Baucas, P Spachos \\
 in Elsevier Computer Communications, vol. 153, pg. 302-310, March 2020. 
 {: reversed="reversed"}
@@ -66,57 +66,57 @@ in 2025 IEEE Global Communications Conference (GLOBECOM), Accepted (Taipei, Taiw
 M Askariraad, MJ Baucas, S Gregori, P Spachos \\
 in 2025 IEEE Global Communications Conference (GLOBECOM), Accepted (Taipei, Taiwan). -->
 
-0. [Private Blockchain and Federated Learning-based Edge-IoT Platform for Secure Urban Noise Monitoring]() \\
+0. [Private Blockchain and Federated Learning-based Edge-IoT Platform for Secure Urban Noise Monitoring](https://ieeexplore.ieee.org/document/11160895) \\
 MJ Baucas, P Spachos \\
 in 2025 IEEE International Conference on Communications (ICC), June 2025 (Montreal, Canada).
 
-0. [Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices]() \\
+0. [Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices](https://ieeexplore.ieee.org/document/11067986) \\
 W Botros, MJ Baucas, P Spachos \\
 in 2025 IEEE International Symposium on Medical Measurements and Applications (MeMeA), May 2025 (Chania, Greece).
 
-0. [Private Blockchain-Based Edge IoT Platform for Secure Large Language Model Services](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/391609510_Private_Blockchain-Based_Edge_IoT_Platform_for_Secure_Large_Language_Model_Services/links/682022f4d1054b0207ee2b58/Private-Blockchain-Based-Edge-IoT-Platform-for-Secure-Large-Language-Model-Services.pdf) \\
+0. [Private Blockchain-Based Edge IoT Platform for Secure Large Language Model Services](https://ieeexplore.ieee.org/document/10978381) \\
 MJ Baucas, P Spachos, S Gregori \\
 in 2025 IEEE Wireless Communications and Networking Conference (WCNC), March 2025 (Milan, Italy).
 
-0. [Secure Social Network Applications via Private Blockchain and End-to-End Encryption](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/394466179_Secure_Social_Network_Applications_via_Private_Blockchain_and_End-To-End_Encryption/links/689cb248daa95834904ee224/Secure-Social-Network-Applications-via-Private-Blockchain-and-End-To-End-Encryption.pdf) \\
+0. [Secure Social Network Applications via Private Blockchain and End-to-End Encryption](https://ieeexplore.ieee.org/document/11100925) \\
 MJ Baucas, P Spachos \\
 in 2024 IEEE Global Communications Conference Workshops (GC Wkshps), December 2024 (Cape Town, South Africa).
 
-0. [Formation Control Design for Remote Field Monitoring with IoT-enabled Mobile Robots](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/387548801_Formation_Control_Design_for_Remote_Field_Monitoring_with_IoT-enabled_Mobile_Robots/links/677840d4894c55208541ca20/Formation-Control-Design-for-Remote-Field-Monitoring-with-IoT-enabled-Mobile-Robots.pdf) \\
+0. [Formation Control Design for Remote Field Monitoring with IoT-enabled Mobile Robots](https://ieeexplore.ieee.org/document/10811369) \\
 MJ Baucas, Z Xu, P Spachos, SA Gadsden \\
 in 2024 IEEE World Forum on Internet of Things (WFIoT), November 2024 (Ottawa, Canada).
 
-0. [Federated Learning Platform for Secure Object Recognition in Connected and Autonomous Vehicles](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/383563780_Federated_Learning_Platform_for_Secure_Object_Recognition_in_Connected_and_Autonomous_Vehicles/links/67677c9800aa3770e0b2b0c8/Federated-Learning-Platform-for-Secure-Object-Recognition-in-Connected-and-Autonomous-Vehicles.pdf) \\
+0. [Federated Learning Platform for Secure Object Recognition in Connected and Autonomous Vehicles](https://ieeexplore.ieee.org/document/10622933) \\
 MJ Baucas, P Spachos, S Gregori \\
 in 2024 IEEE International Conference on Communications (ICC), June 2024 (Denver, Colorado, USA).
 
-0. [Fog-based Smart Contract Platform for Wearable IoT-enabled Telemedicine](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/378500255_Fog-Based_Smart_Contract_Platform_for_Wearable_IoT-Enabled_Telemedicine/links/66330b0b08aa54017ad48c2f/Fog-Based-Smart-Contract-Platform-for-Wearable-IoT-Enabled-Telemedicine.pdf) \\
+0. [Fog-based Smart Contract Platform for Wearable IoT-enabled Telemedicine](https://ieeexplore.ieee.org/document/10436830) \\
 MJ Baucas, P Spachos \\
 in 2023 IEEE Global Communications Conference (GLOBECOM), December 2023 (Kuala Lumpur, Malaysia).
 
-0. [Private Blockchain-Based Wireless Body Area Network Platform for Wearable Internet of Thing Devices in Healthcare](https://www.researchgate.net/profile/Marc-Jayson-Baucas/publication/374933738_Private_Blockchain-Based_Wireless_Body_Area_Network_Platform_for_Wearable_Internet_of_Thing_Devices_in_Healthcare/links/66330a8e35243041535814ed/Private-Blockchain-Based-Wireless-Body-Area-Network-Platform-for-Wearable-Internet-of-Thing-Devices-in-Healthcare.pdf) \\
+0. [Private Blockchain-Based Wireless Body Area Network Platform for Wearable Internet of Thing Devices in Healthcare](https://ieeexplore.ieee.org/document/10278610) \\
 MJ Baucas, P Spachos, S Gregori \\
 in 2023 IEEE International Conference on Communications (ICC), June 2023 (Rome, Italy).
 
-0. [Permissioned Blockchain Reinforced API Platform for Data Management in IoT-based Sensor Networks](http://www.pspachos.net/pubs/GB2021.pdf) \\
+0. [Permissioned Blockchain Reinforced API Platform for Data Management in IoT-based Sensor Networks](https://ieeexplore.ieee.org/document/9685387) \\
 MJ Baucas, P Spachos \\
 in 2021 IEEE Global Communications Conference (GLOBECOM), December 2021 (Madrid, Spain). \\
 *Hybrid: In-Person and Virtual Conference*.
 
-0. [Fog and Iot-Based Remote Patient Monitoring Architecture Using Speech Recognition](http://www.pspachos.net/pubs/ISCC20202.pdf) \\
+0. [Fog and Iot-Based Remote Patient Monitoring Architecture Using Speech Recognition](https://ieeexplore.ieee.org/document/9219649) \\
 MJ Baucas, P Spachos \\
 in 2020 IEEE Symposium on Computers and Communications (ISCC), July 2020 (Rennes, France). \\
 *Hybrid: In-Person and Virtual Conference*.
 
-0. [Permissioned Blockchain-Driven Internet of Things Gateway Using Bluetooth Low Energy](http://www.pspachos.net/pubs/ICC2020.pdf) \\
+0. [Permissioned Blockchain-Driven Internet of Things Gateway Using Bluetooth Low Energy](https://ieeexplore.ieee.org/document/9149142) \\
 MJ Baucas, P Spachos \\
 in 2020 IEEE International Conference on Communications (ICC) , June 2020 (Virtual Conference).
 
-0. [Speech Recognition Driven Assistive Framework for Remote Patient Monitoring](https://www.researchgate.net/profile/P-Spachos/publication/338944320_Speech_Recognition_Driven_Assistive_Framework_for_Remote_Patient_Monitoring/links/5e3d3b70299bf1cdb9151102/Speech-Recognition-Driven-Assistive-Framework-for-Remote-Patient-Monitoring.pdf) \\
+0. [Speech Recognition Driven Assistive Framework for Remote Patient Monitoring](https://ieeexplore.ieee.org/document/8969464) \\
 MJ Baucas, P Spachos \\
 in 2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP), November 2019 (Ottawa, Canada).
 
-0. [A Testbed for Adaptive Microphones in Ultra-Low-Power Systems](http://www.pspachos.net/pubs/ICT20192.pdf) \\
+0. [A Testbed for Adaptive Microphones in Ultra-Low-Power Systems](https://ieeexplore.ieee.org/document/8789373) \\
 E Fallis, M Lipski, A Mackey, MJ Baucas, M James, P Spachos, S Gregori \\
 in 2019 IEEE Sustainability through ICT Summit (StICT), June 2019 (Montreal, Canada).
 {: reversed="reversed"}
