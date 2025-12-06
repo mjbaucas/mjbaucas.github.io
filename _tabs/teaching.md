@@ -5,7 +5,11 @@ order: 3
 ---
 Sessional Lecturer
 ------------------
-* **ENGG 4560 - Embedded System Design** (Winter 2025) \\
+* **ENGG 3050 - Embedded Reconfigurable Computing Systems** (Fall 2025) \\
+  *School of Engineering, University of Guelph, Guelph, ON* \\
+    * Introduces the anlysis, synthesis, and design of reconfigurable computing systems in embedded architectures, discussing how to implement these systems in FPGAs using VHDL and HLS. 
+
+* **ENGG 4560 - Embedded System Design** (Winter 2025, 2026) \\
   *School of Engineering, University of Guelph, Guelph, ON* \\
     * Introduced the different aspects of embedded systems design, discussing different relevant topics such as system-on-chip design, embedded programming and analysis, and different embedded system applications and implementations. 
     
