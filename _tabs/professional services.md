@@ -10,3 +10,5 @@ Conference Organization
 0. Publicity Chair for the 32nd Biennial Symposium on Communications [(BSC2025)](http://infotheory.ca/bsc2025/)
 
 0. Publication/EDAS Chair for the IEEE 20th International Symposium on Medical Measurements and Applications [(MeMeA2025)](https://memea2025.ieee-ims.org/)
+{: reversed="reversed"}
+------------------
