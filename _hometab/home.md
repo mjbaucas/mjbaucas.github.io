@@ -47,14 +47,16 @@ I am currently a Postdoctoral Researcher at the University of Guelph. I graduate
 
 ---
 ## News
-**October 22, 2025** - Acceptance of Journal paper, "Private Blockchain-based Fog-IoT Platform for Wearables in Healthcare", at [IEEE Open Journal of Instrumentation & Measurement](https://ieee-ims.org/publication/ieee-ojim/about)
+**October 22, 2025** - Our journal paper, *Private Blockchain-based Fog-IoT Platform for Wearables in Healthcare*, was accepted at the [IEEE Open Journal of Instrumentation & Measurement](https://ieee-ims.org/publication/ieee-ojim/about)
 
-**September 17, 2025** - Acceptance of Journal paper, "Edge-based Platform for Large Language Models Deployment in Internet of Things Applications", at [IEEE Networking Letters](https://www.comsoc.org/publications/journals/ieee-lnet)
+**September 17, 2025** - Our journal paper, *Edge-based Platform for Large Language Models Deployment in Internet of Things Applications*, was accepted at the [IEEE Networking Letters](https://www.comsoc.org/publications/journals/ieee-lnet)
+
+**September 17, 2025** - Our conference paper, *Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices*, was featured in an [article by the University of Guelph](https://www.uoguelph.ca/engineering/news/2025/09/engineering-researchers-create-new-tools-improve-digital-accessibility).
+
+**April 25, 2025** - Our conference paper, *Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices*, was accepted at the [IEEE International Symposium on Medical Measurements and Applications 2025 (MeMeA)](https://memea2025.ieee-ims.org/)
 
 <!-- **July 31, 2025** - Acceptance of Conference paper, "Edge and Private Blockchain-based Medical LLM Deployment Platform for Scalable and Secure Patient Support Systems", at [IEEE Global Communications Conference 2025 (GLOBECOM)](https://globecom2025.ieee-globecom.org/)
 
 **July 31, 2025** - Acceptance of Conference paper, "Edge IoT-based Voice-Activated Health Monitoring System", at [IEEE Global Communications Conference 2025 (GLOBECOM)](https://globecom2025.ieee-globecom.org/) -->
-
-**April 25, 2025** - Acceptance of Conference paper, "Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices", at [IEEE International Symposium on Medical Measurements and Applications 2025 (MeMeA)](https://memea2025.ieee-ims.org/)
 
 ---
