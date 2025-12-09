@@ -54,7 +54,7 @@ in Elsevier Simulation Modelling Practice and Theory, vol. 101, May 2020.
 MJ Baucas, P Spachos \\
 in Elsevier Computer Communications, vol. 153, pg. 302-310, March 2020. 
 {: reversed="reversed"}
----
+---------
 
 Conference Papers
 ------------------
