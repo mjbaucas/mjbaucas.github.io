@@ -58,13 +58,13 @@ in Elsevier Computer Communications, vol. 153, pg. 302-310, March 2020.
 
 Conference Papers
 ------------------
-<!-- 0. [Edge and Private Blockchain-based Medical LLM Deployment Platform for Scalable and Secure Patient Support Systems]() \\
+0. [Edge and Private Blockchain-based Medical LLM Deployment Platform for Scalable and Secure Patient Support Systems]() \\
 MJ Baucas, P Spachos \\
 in 2025 IEEE Global Communications Conference (GLOBECOM), Accepted (Taipei, Taiwan).
 
 0. [Edge IoT-based Voice-Activated Health Monitoring System]() \\
 M Askariraad, MJ Baucas, S Gregori, P Spachos \\
-in 2025 IEEE Global Communications Conference (GLOBECOM), Accepted (Taipei, Taiwan). -->
+in 2025 IEEE Global Communications Conference (GLOBECOM), Accepted (Taipei, Taiwan).
 
 0. [Private Blockchain and Federated Learning-based Edge-IoT Platform for Secure Urban Noise Monitoring](https://ieeexplore.ieee.org/document/11160895) \\
 MJ Baucas, P Spachos \\
