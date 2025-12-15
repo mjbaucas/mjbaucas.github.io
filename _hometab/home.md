@@ -40,7 +40,7 @@ Postdoctoral Scholar at the [School of Engineering](https://www.uoguelph.ca/engi
 
 ---
 ### Research Interests
-My research focuses on IoT network applications with an emphasis on cybersecurity and decentralized architectures. I develop systems using fog and edge computing, deploying wearable devices, environmental sensors, and LLMs at the edge. I integrate blockchain technologies, federated learning, and end-to-end encryption into these implementations to enhance security and privacy. Recently, I've been exploring embedded systems and other AI models to achieve more intelligent and sustainable designs.
+My research focuses on IoT network applications with an emphasis on cybersecurity and decentralized architectures. My current projects include developing systems using fog and edge computing, deploying wearable devices, environmental sensors, and LLMs at the edge. I am also integrating blockchain technologies, federated learning, and end-to-end encryption into these implementations to enhance security and privacy. Recently, I've been exploring embedded systems and other AI models to achieve more intelligent and sustainable designs.
 
 ---
 ### Short Bio
