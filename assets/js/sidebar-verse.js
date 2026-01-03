@@ -8,7 +8,7 @@ function addVerse() {
 
     // Create wrapper div to force new line in flex
     const verseWrapper = document.createElement("div");
-    verseWrapper.className = "sidebar-verse-wrapper w-100";
+    verseWrapper.className = "w-100 d-flex justify-content-center mt-2";
 
     // Create span with text and native tooltip
     const verse = document.createElement("span");
