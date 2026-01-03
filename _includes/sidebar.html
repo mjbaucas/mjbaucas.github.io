@@ -99,13 +99,14 @@
         </a>
       {% endif %}
     {% endfor %}
-  </div>
 
-  {% if site.sidebar.verse %}
-  <div class="sidebar-verse">
-    {{ site.sidebar.verse }}
+    {% if site.sidebar.verse %}
+    <div class="sidebar-verse w-100 text-center mt-2">
+      {{ site.sidebar.verse }}
+    </div>
+    {% endif %}
   </div>
-  {% endif %}
+  
   <!-- .sidebar-bottom -->
 </aside>
 <!-- #sidebar -->
