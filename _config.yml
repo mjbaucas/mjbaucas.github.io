@@ -207,5 +207,6 @@ jekyll-archives:
 
 # Extra
 footer:
+  show: true
   copyright:
     name: "Psalm 42:1"
