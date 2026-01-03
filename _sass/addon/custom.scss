@@ -3,19 +3,20 @@
   color: var(--text-muted-color);
   font-style: italic;
   opacity: 0.85;
-  position: relative;
   cursor: help;
+  position: relative; /* keep relative for reference */
 }
 
 .sidebar-verse::after {
   content: attr(data-full);
-  position: absolute;
-  bottom: 100%;          /* above the text */
+  position: fixed;           /* changed from absolute */
+  bottom: auto;
+  top: 50%;                  /* roughly center on screen */
   left: 50%;
-  transform: translateX(-50%);
+  transform: translate(-50%, -50%);
   background: var(--color-body-bg);
   color: var(--text-color);
-  font-size: 0.7rem;
+  font-size: 0.75rem;
   padding: 0.25rem 0.5rem;
   border-radius: 0.25rem;
   white-space: nowrap;
@@ -23,7 +24,7 @@
   pointer-events: none;
   transition: opacity 0.2s;
   box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-  z-index: 100;
+  z-index: 9999;
 }
 
 .sidebar-verse:hover::after {
