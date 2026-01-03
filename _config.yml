@@ -204,7 +204,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-# Extra
-copyright:
-  name: "Psalm 42:1"
