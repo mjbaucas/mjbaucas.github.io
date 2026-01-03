@@ -7,8 +7,8 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     // Create verse element
-    const verse = document.createElement("div");
-    verse.className = "sidebar-verse w-100 text-center mt-2";
+    const verse = document.createElement("span");
+    verse.className = "sidebar-verse";
     verse.textContent = "Psalm 42:1";
 
     // Add the full verse as a title (native tooltip)
