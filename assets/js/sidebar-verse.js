@@ -16,10 +16,7 @@ function addVerse() {
     const verse = document.createElement("span");
     verse.className = "sidebar-verse";
     verse.textContent = "Colossians 1:13-14";
-    verse.setAttribute(
-        "title",
-        "He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love, in whom we have redemption through His blood, the forgiveness of sins."
-    );
+    verse.title = "He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love, in whom we have redemption through His blood, the forgiveness of sins.";
 
     verseWrapper.appendChild(verse);
     sidebarBottom.appendChild(verseWrapper);
