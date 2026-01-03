@@ -206,7 +206,5 @@ jekyll-archives:
     category: /categories/:name/
 
 # Extra
-footer:
-  show: true
-  copyright:
-    name: "Psalm 42:1"
+copyright:
+  name: "Psalm 42:1"
