@@ -204,3 +204,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Extra
+sidebar:
+  verse: "Psalm 42:1"

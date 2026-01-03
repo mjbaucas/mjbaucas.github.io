@@ -100,9 +100,12 @@
       {% endif %}
     {% endfor %}
   </div>
-  <div>
-    Psalm 42:1
+
+  {% if site.sidebar.verse %}
+  <div class="sidebar-verse">
+    {{ site.sidebar.verse }}
   </div>
+  {% endif %}
   <!-- .sidebar-bottom -->
 </aside>
 <!-- #sidebar -->
