@@ -1,6 +1,12 @@
+.sidebar-verse-wrapper {
+    flex-basis: 100%; 
+    margin-top: 0.25rem;
+    text-align: center;
+}
+
 .sidebar-verse {
     font-size: 0.75rem;
     color: var(--text-muted-color);
     font-style: italic;
-    cursor: help;        
+    cursor: help;      
 }

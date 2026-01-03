@@ -1,13 +1,27 @@
-const footerText = document.querySelector(".sidebar-footer-text");
-if (footerText) {
+function addVerse() {
+    const sidebarBottom = document.querySelector(".sidebar-bottom");
+    if (!sidebarBottom) {
+        // Retry if sidebar not yet rendered
+        setTimeout(addVerse, 50);
+        return;
+    }
+
+    // Create wrapper div to force new line in flex
+    const verseWrapper = document.createElement("div");
+    verseWrapper.className = "sidebar-verse-wrapper";
+
+    // Create span with text and native tooltip
     const verse = document.createElement("span");
     verse.className = "sidebar-verse";
-    verse.textContent = "Psalm 42:1";
+    verse.textContent = "Colossians 1:13-14";
     verse.setAttribute(
         "title",
-        "As the deer pants for the water brooks, so my soul pants for You, O God."
+        "He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love, in whom we have redemption through His blood, the forgiveness of sins."
     );
 
-    footerText.appendChild(document.createElement("br")); // force new line
-    footerText.appendChild(verse);
+    verseWrapper.appendChild(verse);
+    sidebarBottom.appendChild(verseWrapper);
 }
+
+// Start when DOM ready
+document.addEventListener("DOMContentLoaded", addVerse);
