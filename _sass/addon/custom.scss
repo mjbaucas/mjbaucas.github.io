@@ -1,7 +1,7 @@
 .sidebar-verse-wrapper {
     width: 100%;        
-    display: block;     
-    margin-top: 0.25rem;
+    display: inline-block;     
+    margin-top: 0.5rem;
     text-align: center; 
 }
 
@@ -10,4 +10,13 @@
     color: var(--text-muted-color);
     font-style: italic;
     cursor: help;
+}
+
+.sidebar-verse {
+  font-size: 0.75rem;
+  color: var(--text-muted-color);
+  font-style: italic;
+  cursor: help;
+  margin-top: 0.5rem;
+  display: inline-block;
 }
