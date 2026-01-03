@@ -3,4 +3,29 @@
   color: var(--text-muted-color);
   font-style: italic;
   opacity: 0.85;
+  position: relative;
+  cursor: help;
+}
+
+.sidebar-verse::after {
+  content: attr(data-full);
+  position: absolute;
+  bottom: 100%;          /* above the text */
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--color-body-bg);
+  color: var(--text-color);
+  font-size: 0.7rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  z-index: 100;
+}
+
+.sidebar-verse:hover::after {
+  opacity: 1;
 }
