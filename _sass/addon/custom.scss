@@ -2,20 +2,7 @@
   font-size: 0.75rem;
   color: var(--text-muted-color);
   font-style: italic;
-  cursor: help;
-  opacity: 0.85;
-}
-
-.sidebar-verse-tooltip {
-  position: fixed;
-  display: none;
-  background: var(--color-body-bg);
-  color: var(--text-color);
-  font-size: 0.75rem;
-  padding: 0.25rem 0.5rem;
-  border-radius: 0.25rem;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-  white-space: nowrap;
-  z-index: 9999;
-  pointer-events: none;
+  cursor: help;    // shows the tooltip on hover
+  margin-top: 0.5rem;
+  display: inline-block;
 }

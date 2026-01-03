@@ -10,10 +10,12 @@ document.addEventListener("DOMContentLoaded", function () {
     const verse = document.createElement("div");
     verse.className = "sidebar-verse w-100 text-center mt-2";
     verse.textContent = "Psalm 42:1";
-    sidebarBottom.appendChild(verse);
 
-    sidebarBottom.setAttribute(
+    // Add the full verse as a title (native tooltip)
+    verse.setAttribute(
         "title",
         "As the deer pants for the water brooks, so my soul pants for You, O God."
     );
+
+    sidebarBottom.appendChild(verse);
 });
