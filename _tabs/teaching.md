@@ -5,13 +5,13 @@ order: 3
 ---
 Sessional Lecturer
 ------------------
+* **ENGG 4560 - Embedded System Design** (Winter 2026, 2025) \\
+  *School of Engineering, University of Guelph, Guelph, ON* \\
+    * Taught core concepts of embedded systems design, covering system-on-chip design, embedded programming and analysis, and security-focused embedded system applications and implementations. 
+
 * **ENGG 3050 - Embedded Reconfigurable Computing Systems** (Fall 2025) \\
   *School of Engineering, University of Guelph, Guelph, ON* \\
     * Taught the synthesis and implementation of embedded system architectures, emphasizing FPGA design flows, VHDL and HLS toolchains, and emerging trends in reconfigurable computing systems.
-
-* **ENGG 4560 - Embedded System Design** (Winter 2025, 2026) \\
-  *School of Engineering, University of Guelph, Guelph, ON* \\
-    * Taught core concepts of embedded systems design, covering system-on-chip design, embedded programming and analysis, and security-focused embedded system applications and implementations. 
     
 * **ENGG 6600 - ST: Wearable IoT Applications** (Summer 2024) \\
   *School of Engineering, University of Guelph, Guelph, ON* \\
@@ -30,33 +30,41 @@ Teaching Assistant
     * Led tutorials that reviewed topics and aspects of the course taught during the lecture. Also, provided supplementing discussions on methods to solving different systems and control theory problems. 
     * Conducted a lab whose goal is to identify the transfer function of a DC motor. Data is collected by the students from running the motor through a custom GUI and analyzed using MATLAB to get the transfer function.
 
+* **ENGG 4560 - Embedded Systems Design** (Winter 2023, 2022) \\
+  *School of Engineering, University of Guelph, Guelph, ON* \\
+    * Introduced basic principles of embedded system design through lab activities using DE1-SoC development kits. The embedded designs were programmed in Verilog HDL using Quartus software tools. 
+    * Taught the basics of using the different internal components of an FPGA through Verilog HDL. For example, the generation of different IPs and Memory Mapped registers for simple FPGA coprocessor designs.  
+    * Supervised and evaluated a final project where groups designed their own AES encryptor implementation composed of an HPS portion and an FPGA coprocessor.
+
 * **ENGG 4420 - Real-time Systems Design** (Fall 2022) \\
   *School of Engineering, University of Guelph, Guelph, ON* \\
     * Conducted labs that would introduce real-time concepts from a system and computing perspective. The labs included tasks that required students to program an STM32 microcontroller using preemptive real-time kernels; μC/OS and FreeRTOS. 
     * Assisted in a lab requiring the designing of a PID controller using the STM32 board and applying the different concepts of real-time operating systems such as; Mutexes, Semaphores, and Queues. 
     * Supervised and evaluated a project requiring the creation of a real-time Intruder Detection System (IDS) using a motion sensor and an HD camera that is controlled by the STM32 board. 
 
-* **ENGG 6600 - ST: Software Architecture of AI Systems** (Summer 2022) \\
-  *School of Engineering, University of Guelph, Guelph, ON* \\
-    * Marked assignments and labs requiring students to implement and modify AI systems for data processing and training within classifiers. Used Jupyter notebooks to create simulations that classify different types of raw data. 
-
-* **ENGG 4560 - Embedded Systems Design** (Winter 2022, 2023) \\
-  *School of Engineering, University of Guelph, Guelph, ON* \\
-    * Introduced basic principles of embedded system design through lab activities using DE1-SoC development kits. The embedded designs were programmed in Verilog HDL using Quartus software tools. 
-    * Taught the basics of using the different internal components of an FPGA through Verilog HDL. For example, the generation of different IPs and Memory Mapped registers for simple FPGA coprocessor designs.  
-    * Supervised and evaluated a final project where groups designed their own AES encryptor implementation composed of an HPS portion and an FPGA coprocessor.
-
-* **ENGG 6400 - Mobile Applications Development** (Winter 2022) \\
-  *School of Engineering, University of Guelph, Guelph, ON* \\
-    * Marked assignments that required students to implement mobile applications that used many different programmable features of current mobile devices such as common widgets (i.e. buttons, drop-down, labels, text inputs), cameras, and maps.
-
-* **ENGG 3050 - Embedded Reconfigurable Computing Systems** (Fall 2021, 2022) \\
+* **ENGG 3050 - Embedded Reconfigurable Computing Systems** (Fall 2022, 2021) \\
   *School of Engineering, University of Guelph, Guelph, ON* \\
     * Assisted in the introduction of the analysis, synthesis, and design of reconfigurable computing systems to students. 
     * Worked with Xilinx Vivado as the main teaching environment and workspace in conducting each lab activity.
     * Headed labs that provided hands-on projects and activities that implemented basic embedded system components and architectures using the Nexys A7-T100 FPGA training board. These labs included the following concepts:
         * Evaluating and comparing performances of different logic designs through the resources used to synthesize each implementation.
         * Implementing simple SIMD processors and analyzing their performance using different operations of designed Arithmetic Units. 
+
+* **ENGG 6600 - ST: Software Architecture of AI Systems** (Summer 2022) \\
+  *School of Engineering, University of Guelph, Guelph, ON* \\
+    * Marked assignments and labs requiring students to implement and modify AI systems for data processing and training within classifiers. Used Jupyter notebooks to create simulations that classify different types of raw data. 
+
+* **ENGG 6400 - Mobile Applications Development** (Winter 2022) \\
+  *School of Engineering, University of Guelph, Guelph, ON* \\
+    * Marked assignments that required students to implement mobile applications that used many different programmable features of current mobile devices such as common widgets (i.e. buttons, drop-down, labels, text inputs), cameras, and maps.
+
+* **ENGG 4540 - Large Scale Architecture** (Fall 2021, 2020, 2019)\\
+  *School of Engineering, University of Guelph, Guelph, ON* \\
+    * Managed the labs that discussed the core applications that are used in large-scale software development (i.e. UML Diagrams, Code Review, Version Control, and Unit Testing).
+    * Oversaw projects that required the students to pick an open-source software application. Then, they would apply the different software development concepts that they learned in class to help them develop new features and bug fixes for the selected application. These projects were:
+        * A lightweight pedometer Java application for Android that uses the built-in step-sensor on the mobile device for minimal battery consumption. 
+        * A simple messaging Java application for Android that allows private conversations with friends through a shared server.  
+        * A cross-platform music bot for Discord servers that is written in a combination of Apache and Java. 
 
 * **ENGG 3100 - Engineering and Design III** (Winter 2021) \\
   *School of Engineering, University of Guelph, Guelph, ON* \\
@@ -73,14 +81,6 @@ Teaching Assistant
   *School of Engineering, University of Guelph, Guelph, ON* \\
     * Marked assignments and tests related to neural network topics such as; Basic concepts and models of ANN, Reinforcement learning, Recurrent neural networks and Unsupervised learning, Fuzzy logic and Fuzzy sets, and Neuro-fuzzy systems. 
 
-* **ENGG 4540 - Large Scale Architecture** (Fall 2019, 2020, 2021)\\
-  *School of Engineering, University of Guelph, Guelph, ON* \\
-    * Managed the labs that discussed the core applications that are used in large-scale software development (i.e. UML Diagrams, Code Review, Version Control, and Unit Testing).
-    * Oversaw projects that required the students to pick an open-source software application. Then, they would apply the different software development concepts that they learned in class to help them develop new features and bug fixes for the selected application. These projects were:
-        * A lightweight pedometer Java application for Android that uses the built-in step-sensor on the mobile device for minimal battery consumption. 
-        * A simple messaging Java application for Android that allows private conversations with friends through a shared server.  
-        * A cross-platform music bot for Discord servers that is written in a combination of Apache and Java. 
-  
 * **ENGG 4200 - Wireless Sensor Networks** (Fall 2019) \\
   *School of Engineering, University of Guelph, Guelph, ON* \\
     * Managed the labs that experimented with different wireless technologies and interfaces such as; Omnet++, XBee and RFID tags.
