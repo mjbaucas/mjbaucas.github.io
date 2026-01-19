@@ -48,14 +48,13 @@ I am currently a Postdoctoral Researcher and Sessional Lecturer at the Universit
 
 ---
 ## News
+* **January 18, 2026** - Acceptance of Conference paper, "Secure LLM Deployment for IoT-based Agricultural Decision Support with Private Blockchain and E2EE", at [IEEE International Conference on Communications 2026 (ICC)](https://icc2026.ieee-icc.org/)
+
+* **January 18, 2026** - Acceptance of Conference paper, "Power-Efficient Edge-Based Keyword Spotting for Remote Patient Monitoring Systems", at [IEEE International Conference on Communications 2026 (ICC)](https://icc2026.ieee-icc.org/)
+
 * **October 22, 2025** - Our journal paper, *Private Blockchain-based Fog-IoT Platform for Wearables in Healthcare*, was accepted at the [IEEE Open Journal of Instrumentation & Measurement](https://ieee-ims.org/publication/ieee-ojim/about)
 
 * **September 17, 2025** - Our conference paper, *Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices*, was featured in an [article by the University of Guelph](https://www.uoguelph.ca/engineering/news/2025/09/engineering-researchers-create-new-tools-improve-digital-accessibility).
 
 * **September 17, 2025** - Our journal paper, *Edge-based Platform for Large Language Models Deployment in Internet of Things Applications*, was accepted at the [IEEE Networking Letters](https://www.comsoc.org/publications/journals/ieee-lnet)
-
-* **July 31, 2025** - Acceptance of Conference paper, "Edge and Private Blockchain-based Medical LLM Deployment Platform for Scalable and Secure Patient Support Systems", at [IEEE Global Communications Conference 2025 (GLOBECOM)](https://globecom2025.ieee-globecom.org/)
-
-* **July 31, 2025** - Acceptance of Conference paper, "Edge IoT-based Voice-Activated Health Monitoring System", at [IEEE Global Communications Conference 2025 (GLOBECOM)](https://globecom2025.ieee-globecom.org/)
-
 ---

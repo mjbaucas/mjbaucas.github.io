@@ -58,13 +58,21 @@ in Elsevier Computer Communications, vol. 153, pg. 302-310, March 2020.
 
 Conference Papers
 ------------------
+0. [Secure LLM Deployment for IoT-based Agricultural Decision Support with Private Blockchain and E2EE]() \\
+MJ Baucas, P Spachos \\
+in 2026 IEEE International Conference on Communications (ICC), Accepted (Glasgow, Scotland, UK).
+
+0. [Power-Efficient Edge-Based Keyword Spotting for Remote Patient Monitoring Systems]() \\
+M Grzybek, MJ Baucas, S Gregori, P Spachos \\
+in 2026 IEEE International Conference on Communications (ICC), Accepted (Glasgow, Scotland, UK).
+
 0. [Edge and Private Blockchain-based Medical LLM Deployment Platform for Scalable and Secure Patient Support Systems]() \\
 MJ Baucas, P Spachos \\
-in 2025 IEEE Global Communications Conference (GLOBECOM), Accepted (Taipei, Taiwan).
+in 2025 IEEE Global Communications Conference (GLOBECOM), December 2025 (Taipei, Taiwan).
 
 0. [Edge IoT-based Voice-Activated Health Monitoring System]() \\
 M Askariraad, MJ Baucas, S Gregori, P Spachos \\
-in 2025 IEEE Global Communications Conference (GLOBECOM), Accepted (Taipei, Taiwan).
+in 2025 IEEE Global Communications Conference (GLOBECOM), December 2025 (Taipei, Taiwan).
 
 0. [Private Blockchain and Federated Learning-based Edge-IoT Platform for Secure Urban Noise Monitoring](https://ieeexplore.ieee.org/document/11160895) \\
 MJ Baucas, P Spachos \\
