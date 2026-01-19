@@ -57,4 +57,5 @@ I am currently a Postdoctoral Researcher and Sessional Lecturer at the Universit
 * **September 17, 2025** - Our conference paper, *Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices*, was featured in an [article by the University of Guelph](https://www.uoguelph.ca/engineering/news/2025/09/engineering-researchers-create-new-tools-improve-digital-accessibility).
 
 * **September 17, 2025** - Our journal paper, *Edge-based Platform for Large Language Models Deployment in Internet of Things Applications*, was accepted at the [IEEE Networking Letters](https://www.comsoc.org/publications/journals/ieee-lnet)
+
 ---
