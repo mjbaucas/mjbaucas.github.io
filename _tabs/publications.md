@@ -12,7 +12,7 @@ in IEEE Open Journal of Instrumentation and Measurement, vol. 4, November 2025.
 
 0. [Edge-based Platform for Large Language Models Deployment in Internet of Things Applications](https://ieeexplore.ieee.org/document/11182309) \\
 MJ Baucas, P Spachos \\
-in IEEE Networking Letters, *Early Access*, September 2025.
+in IEEE Networking Letters, vol.8, no. 1, pg. 78-81, September 2025.
 
 0. [Secure Private Blockchain-based Instant Messaging Platform for Social Media Services](https://ieeexplore.ieee.org/document/10496473) \\
 MJ Baucas, P Spachos \\
