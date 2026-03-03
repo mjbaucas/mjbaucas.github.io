@@ -58,6 +58,10 @@ in Elsevier Computer Communications, vol. 153, pg. 302-310, March 2020.
 
 Conference Papers
 ------------------
+0. [PUF-Enabled Hybrid Blockchain for Secure IoT Device Management]() \\
+MJ Baucas, K Kamal, S Gregori, P Spachos \\
+in 2026 IEEE High-Performance Switching and Routing (HPSR), Accepted (Montreal, Canada).
+
 0. [Secure LLM Deployment for IoT-based Agricultural Decision Support with Private Blockchain and E2EE]() \\
 MJ Baucas, P Spachos \\
 in 2026 IEEE International Conference on Communications (ICC), Accepted (Glasgow, Scotland, UK).
