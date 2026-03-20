@@ -9,7 +9,7 @@ order: 1
 </div>
 
 # Marc Jayson Baucas
-Postdoctoral Scholar at the [School of Engineering](https://www.uoguelph.ca/engineering/) of the [University of Guelph](https://www.uoguelph.ca/)
+Postdoctoral Scholar at the [College of Engineering](https://www.uoguelph.ca/engineering/) of the [University of Guelph](https://www.uoguelph.ca/)
 
 ###### Social Contacts:
 <div>
