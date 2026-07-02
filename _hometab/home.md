@@ -9,7 +9,7 @@ order: 1
 </div>
 
 # Marc Jayson Baucas
-Postdoctoral Scholar at the [College of Engineering](https://www.uoguelph.ca/engineering/) of the [University of Guelph](https://www.uoguelph.ca/)
+Postdoctoral Scholar and Sessional Lecturer at the [College of Engineering](https://www.uoguelph.ca/engineering/) of the [University of Guelph](https://www.uoguelph.ca/)
 
 ###### Social Contacts:
 <div>
@@ -48,6 +48,8 @@ I am currently a Postdoctoral Researcher and Sessional Lecturer at the Universit
 
 ---
 ## News
+* **June 02, 2026** - Acceptance of Conference paper, "An Area-Efficient Arbiter PUF Architecture for Secure Authentication in IoT Systems", at [IEEE International Midwest Symposium on Circuits and Systems 2026 (MWSCAS)](https://mwscas2026.org/).
+
 * **February 03, 2026** - Acceptance of Conference paper, "PUF-Enabled Hybrid Blockchain for Secure IoT Device Management", at [IEEE High-Performance Switching and Routing 2026 (HPSR)](https://hpsr2026.ieee-hpsr.org/).
 
 * **January 18, 2026** - Acceptance of Conference paper, "Secure LLM Deployment for IoT-based Agricultural Decision Support with Private Blockchain and E2EE", at [IEEE International Conference on Communications 2026 (ICC)](https://icc2026.ieee-icc.org/).
@@ -55,7 +57,5 @@ I am currently a Postdoctoral Researcher and Sessional Lecturer at the Universit
 * **January 18, 2026** - Acceptance of Conference paper, "Power-Efficient Edge-Based Keyword Spotting for Remote Patient Monitoring Systems", at [IEEE International Conference on Communications 2026 (ICC)](https://icc2026.ieee-icc.org/).
 
 * **October 22, 2025** - Our journal paper, *Private Blockchain-based Fog-IoT Platform for Wearables in Healthcare*, was accepted at the [IEEE Open Journal of Instrumentation & Measurement](https://ieee-ims.org/publication/ieee-ojim/about).
-
-* **September 17, 2025** - Our conference paper, *Enhancing Mobile User Experience for Individuals with Essential Tremor through Wearable Devices*, was featured in an [article by the University of Guelph](https://www.uoguelph.ca/engineering/news/2025/09/engineering-researchers-create-new-tools-improve-digital-accessibility).
 
 ---

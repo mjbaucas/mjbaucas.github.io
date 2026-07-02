@@ -58,6 +58,10 @@ in Elsevier Computer Communications, vol. 153, pg. 302-310, March 2020.
 
 Conference Papers
 ------------------
+0. [An Area-Efficient Arbiter PUF Architecture for Secure Authentication in IoT Systems]() \\
+MJ Baucas, A Berthe, S Gregori \\
+in 2026 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS), Accepted (Cincinnati, Ohio, USA).
+
 0. [PUF-Enabled Hybrid Blockchain for Secure IoT Device Management]() \\
 MJ Baucas, K Kamal, S Gregori, P Spachos \\
 in 2026 IEEE High-Performance Switching and Routing (HPSR), Accepted (Montreal, Canada).
