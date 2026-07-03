@@ -48,14 +48,14 @@ I am currently a Postdoctoral Researcher and Sessional Lecturer at the Universit
 
 ---
 ## News
-* **June 27, 2026** - Our Journal article, *ISAC in IoT Over Low-Altitude Wireless Networks: Applications, Challenges, and Opportunities*, was accepted at the [IEEE Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine).
+* **June 27, 2026** - Our journal article, *ISAC in IoT Over Low-Altitude Wireless Networks: Applications, Challenges, and Opportunities*, was accepted for publication in [IEEE Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine).
 
-* **June 02, 2026** - Acceptance of Conference paper, "An Area-Efficient Arbiter PUF Architecture for Secure Authentication in IoT Systems", at [IEEE International Midwest Symposium on Circuits and Systems 2026 (MWSCAS)](https://mwscas2026.org/).
+* **June 2, 2026** - Our conference paper, "An Area-Efficient Arbiter PUF Architecture for Secure Authentication in IoT Systems", was accepted for presentation at the [IEEE International Midwest Symposium on Circuits and Systems 2026 (MWSCAS)](https://mwscas2026.org/).
 
-* **February 03, 2026** - Acceptance of Conference paper, "PUF-Enabled Hybrid Blockchain for Secure IoT Device Management", at [IEEE High-Performance Switching and Routing 2026 (HPSR)](https://hpsr2026.ieee-hpsr.org/).
+* **February 3, 2026** - Our conference paper, "PUF-Enabled Hybrid Blockchain for Secure IoT Device Management", was accepted for presentation at the [IEEE High-Performance Switching and Routing 2026 (HPSR)](https://hpsr2026.ieee-hpsr.org/).
 
-* **January 18, 2026** - Acceptance of Conference paper, "Secure LLM Deployment for IoT-based Agricultural Decision Support with Private Blockchain and E2EE", at [IEEE International Conference on Communications 2026 (ICC)](https://icc2026.ieee-icc.org/).
+* **January 18, 2026** - Our conference paper, "Secure LLM Deployment for IoT-based Agricultural Decision Support with Private Blockchain and E2EE", was accepted for poster presentation at the [IEEE International Conference on Communications 2026 (ICC)](https://icc2026.ieee-icc.org/).
 
-* **January 18, 2026** - Acceptance of Conference paper, "Power-Efficient Edge-Based Keyword Spotting for Remote Patient Monitoring Systems", at [IEEE International Conference on Communications 2026 (ICC)](https://icc2026.ieee-icc.org/).
+* **January 18, 2026** - Our conference paper, "Power-Efficient Edge-Based Keyword Spotting for Remote Patient Monitoring Systems", was accepted for presentation at the [IEEE International Conference on Communications 2026 (ICC)](https://icc2026.ieee-icc.org/).
 
 ---
