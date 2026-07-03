@@ -48,7 +48,7 @@ I am currently a Postdoctoral Researcher and Sessional Lecturer at the Universit
 
 ---
 ## News
-* **June 27, 2026** - Our journal article, *ISAC in IoT Over Low-Altitude Wireless Networks: Applications, Challenges, and Opportunities*, was accepted for publication in [IEEE Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine).
+* **June 27, 2026** - Our journal article, "ISAC in IoT Over Low-Altitude Wireless Networks: Applications, Challenges, and Opportunities", was accepted for publication in [IEEE Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine).
 
 * **June 2, 2026** - Our conference paper, "An Area-Efficient Arbiter PUF Architecture for Secure Authentication in IoT Systems", was accepted for presentation at the [IEEE International Midwest Symposium on Circuits and Systems 2026 (MWSCAS)](https://mwscas2026.org/).
 
