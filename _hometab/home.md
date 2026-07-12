@@ -9,7 +9,7 @@ order: 1
 </div>
 
 # Marc Jayson Baucas
-Postdoctoral Scholar and Sessional Lecturer at the [College of Engineering](https://www.uoguelph.ca/engineering/) of the [University of Guelph](https://www.uoguelph.ca/)
+Postdoctoral Researcher and Sessional Lecturer at the [College of Engineering](https://www.uoguelph.ca/engineering/) of the [University of Guelph](https://www.uoguelph.ca/), working on secure and intelligent computing systems spanning IoT security, embedded systems, edge computing, and hardware security.
 
 ###### Social Contacts:
 <div>
@@ -40,11 +40,17 @@ Postdoctoral Scholar and Sessional Lecturer at the [College of Engineering](http
 
 ---
 ### Research Interests
-My research focuses on IoT network applications with an emphasis on cybersecurity and decentralized architectures. My current projects include developing systems using fog and edge computing, deploying wearable devices, environmental sensors, and LLMs at the edge. I am also integrating blockchain technologies, federated learning, and end-to-end encryption into these implementations to enhance security and privacy. Recently, I've been exploring embedded systems and other AI models to achieve more intelligent and sustainable designs.
+My research focuses on the design of secure and intelligent computing systems for IoT and embedded applications. My work spans IoT security, embedded systems, edge intelligence, distributed computing, and hardware security architectures.
+
+I investigate secure architectures that enable reliable and privacy-preserving deployment of resource-constrained devices, including wearable and environmental sensing platforms, edge computing systems, and intelligent IoT applications. My research explores the integration of cybersecurity techniques, including blockchain, federated learning, and end-to-end encryption, as well as hardware-based security approaches for trusted IoT systems.
+
+My current research includes the development and evaluation of secure, ultra-low-power integrated circuits for wireless IoT applications, including 28 nm CMOS Physical Unclonable Functions (PUFs) for hardware-based authentication.
 
 ---
 ### Short Bio
-I am currently a Postdoctoral Researcher and Sessional Lecturer at the University of Guelph. I graduated with my Ph.D. degree from the University of Guelph's College of Engineering in Guelph, Ontario, Canada, in 2023. There, I also obtained an M.A.Sc. in Engineering Systems and Computing in 2020 and a B.Eng. degree in Computer Engineering in 2018.
+I am a Postdoctoral Researcher and Sessional Lecturer at the University of Guelph. Through the Mitacs Accelerate program, I collaborate with Low Power Futures on research into secure hardware and IoT systems. My research interests include IoT security, embedded systems, hardware security, edge intelligence, and secure computing architectures.
+
+I received my Ph.D. in Computer Engineering from the University of Guelph in 2023, where I also completed my M.A.Sc. in Engineering Systems and Computing (2020) and B.Eng. in Computer Engineering (2018).
 
 ---
 ## News
