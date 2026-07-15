@@ -72,11 +72,11 @@ in 2026 IEEE High-Performance Switching and Routing (HPSR), Accepted (Montreal, 
 
 0. [Secure LLM Deployment for IoT-based Agricultural Decision Support with Private Blockchain and E2EE]() \\
 M.J. Baucas, P. Spachos \\
-in 2026 IEEE International Conference on Communications (ICC), June 2026 (Glasgow, Scotland, UK).
+in 2026 IEEE International Conference on Communications (ICC), May 2026 (Glasgow, Scotland, UK).
 
 0. [Power-Efficient Edge-Based Keyword Spotting for Remote Patient Monitoring Systems]() \\
 M. Grzybek, M.J. Baucas, S. Gregori, P. Spachos \\
-in 2026 IEEE International Conference on Communications (ICC), June 2026 (Glasgow, Scotland, UK).
+in 2026 IEEE International Conference on Communications (ICC), May 2026 (Glasgow, Scotland, UK).
 
 0. [Edge and Private Blockchain-based Medical LLM Deployment Platform for Scalable and Secure Patient Support Systems]() \\
 M.J. Baucas, P. Spachos \\
