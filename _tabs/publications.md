@@ -68,7 +68,7 @@ in 2026 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS), A
 
 0. [PUF-Enabled Hybrid Blockchain for Secure IoT Device Management]() \\
 M.J. Baucas, K. Kamal, S. Gregori, P. Spachos \\
-in 2026 IEEE High-Performance Switching and Routing (HPSR), Accepted (Montreal, Canada).
+in 2026 IEEE High-Performance Switching and Routing (HPSR), June 2026 (Montreal, Canada).
 
 0. [Secure LLM Deployment for IoT-based Agricultural Decision Support with Private Blockchain and E2EE]() \\
 M.J. Baucas, P. Spachos \\
