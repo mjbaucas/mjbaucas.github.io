@@ -70,23 +70,23 @@ in 2027 IEEE Global Communications Conference (GLOBECOM), Accepted (Macau S.A.R.
 M.J. Baucas, A. Berthe, S. Gregori \\
 in 2026 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS), Accepted (Cincinnati, Ohio, USA).
 
-0. [PUF-Enabled Hybrid Blockchain for Secure IoT Device Management]() \\
+0. [PUF-Enabled Hybrid Blockchain for Secure IoT Device Management](https://ieeexplore.ieee.org/document/11615197) \\
 M.J. Baucas, K. Kamal, S. Gregori, P. Spachos \\
 in 2026 IEEE High-Performance Switching and Routing (HPSR), June 2026 (Montreal, Canada).
 
-0. [Secure LLM Deployment for IoT-based Agricultural Decision Support with Private Blockchain and E2EE]() \\
+0. [Secure LLM Deployment for IoT-based Agricultural Decision Support with Private Blockchain and E2EE](https://ieeexplore.ieee.org/document/11587960) \\
 M.J. Baucas, P. Spachos \\
 in 2026 IEEE International Conference on Communications (ICC), May 2026 (Glasgow, Scotland, UK).
 
-0. [Power-Efficient Edge-Based Keyword Spotting for Remote Patient Monitoring Systems]() \\
+0. [Power-Efficient Edge-Based Keyword Spotting for Remote Patient Monitoring Systems](https://ieeexplore.ieee.org/document/11587273) \\
 M. Grzybek, M.J. Baucas, S. Gregori, P. Spachos \\
 in 2026 IEEE International Conference on Communications (ICC), May 2026 (Glasgow, Scotland, UK).
 
-0. [Edge and Private Blockchain-based Medical LLM Deployment Platform for Scalable and Secure Patient Support Systems]() \\
+0. [Edge and Private Blockchain-based Medical LLM Deployment Platform for Scalable and Secure Patient Support Systems](https://ieeexplore.ieee.org/document/11431921) \\
 M.J. Baucas, P. Spachos \\
 in 2025 IEEE Global Communications Conference (GLOBECOM), December 2025 (Taipei, Taiwan).
 
-0. [Edge IoT-based Voice-Activated Health Monitoring System]() \\
+0. [Edge IoT-based Voice-Activated Health Monitoring System](https://ieeexplore.ieee.org/document/11431841) \\
 M. Askariraad, M.J. Baucas, S. Gregori, P. Spachos \\
 in 2025 IEEE Global Communications Conference (GLOBECOM), December 2025 (Taipei, Taiwan).
 
