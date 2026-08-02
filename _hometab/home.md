@@ -54,6 +54,8 @@ I received my Ph.D. in Computer Engineering from the University of Guelph in 202
 
 ---
 ## News
+* **July 31, 2026** - Our conference paper, "Hybrid Two-Layer Blockchain Access Control for Secure UAV-Assisted IoT Data Collection", was accepted for presentation at the [IEEE Global Communications Conference 2026 (GLOBECOM)](https://globecom2026.ieee-globecom.org/).
+
 * **June 27, 2026** - Our journal article, "ISAC in IoT Over Low-Altitude Wireless Networks: Applications, Challenges, and Opportunities", was accepted for publication in [IEEE Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine).
 
 * **June 2, 2026** - Our conference paper, "An Area-Efficient Arbiter PUF Architecture for Secure Authentication in IoT Systems", was accepted for presentation at the [IEEE International Midwest Symposium on Circuits and Systems 2026 (MWSCAS)](https://mwscas2026.org/).
@@ -61,7 +63,5 @@ I received my Ph.D. in Computer Engineering from the University of Guelph in 202
 * **February 3, 2026** - Our conference paper, "PUF-Enabled Hybrid Blockchain for Secure IoT Device Management", was accepted for presentation at the [IEEE High-Performance Switching and Routing 2026 (HPSR)](https://hpsr2026.ieee-hpsr.org/).
 
 * **January 18, 2026** - Our conference paper, "Secure LLM Deployment for IoT-based Agricultural Decision Support with Private Blockchain and E2EE", was accepted for poster presentation at the [IEEE International Conference on Communications 2026 (ICC)](https://icc2026.ieee-icc.org/).
-
-* **January 18, 2026** - Our conference paper, "Power-Efficient Edge-Based Keyword Spotting for Remote Patient Monitoring Systems", was accepted for presentation at the [IEEE International Conference on Communications 2026 (ICC)](https://icc2026.ieee-icc.org/).
 
 ---

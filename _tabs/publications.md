@@ -62,6 +62,10 @@ in Elsevier Computer Communications, vol. 153, pg. 302-310, March 2020.
 
 Conference Papers
 ------------------
+0. [Hybrid Two-Layer Blockchain Access Control for Secure UAV-Assisted IoT Data Collection]() \\
+M.J. Baucas, P. Spachos\\
+in 2027 IEEE Global Communications Conference (GLOBECOM), Accepted (Macau S.A.R., China).
+
 0. [An Area-Efficient Arbiter PUF Architecture for Secure Authentication in IoT Systems]() \\
 M.J. Baucas, A. Berthe, S. Gregori \\
 in 2026 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS), Accepted (Cincinnati, Ohio, USA).
