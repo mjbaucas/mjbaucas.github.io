@@ -6,9 +6,9 @@ order: 2
 
 Journals
 ---------
-0. [ISAC in IoT Over Low-Altitude Wireless Networks: Applications, Challenges, and Opportunities]() \\
+0. [ISAC in IoT Over Low-Altitude Wireless Networks: Applications, Challenges, and Opportunities](https://ieeexplore.ieee.org/document/11691286) \\
 P. Spachos, M.J. Baucas, S. Gregori \\
-in IEEE Communications Magazine, Accepted.
+in IEEE Communications Magazine, Early Access.
 
 0. [Private Blockchain-based Fog-IoT Platform for Wearables in Healthcare](https://ieeexplore.ieee.org/document/11231043) \\
 M.J. Baucas, P. Spachos \\
@@ -66,7 +66,7 @@ Conference Papers
 M.J. Baucas, P. Spachos\\
 in 2027 IEEE Global Communications Conference (GLOBECOM), Accepted (Macau S.A.R., China).
 
-0. [An Area-Efficient Arbiter PUF Architecture for Secure Authentication in IoT Systems]() \\
+0. [An Area-Efficient Arbiter PUF Architecture for Secure Authentication in IoT Systems](https://ieeexplore.ieee.org/document/11680927) \\
 M.J. Baucas, A. Berthe, S. Gregori \\
 in 2026 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS), August 2026 (Cincinnati, Ohio, USA).
 
