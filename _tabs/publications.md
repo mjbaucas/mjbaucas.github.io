@@ -68,7 +68,7 @@ in 2027 IEEE Global Communications Conference (GLOBECOM), Accepted (Macau S.A.R.
 
 0. [An Area-Efficient Arbiter PUF Architecture for Secure Authentication in IoT Systems]() \\
 M.J. Baucas, A. Berthe, S. Gregori \\
-in 2026 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS), Accepted (Cincinnati, Ohio, USA).
+in 2026 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS), August 2026 (Cincinnati, Ohio, USA).
 
 0. [PUF-Enabled Hybrid Blockchain for Secure IoT Device Management](https://ieeexplore.ieee.org/document/11615197) \\
 M.J. Baucas, K. Kamal, S. Gregori, P. Spachos \\
