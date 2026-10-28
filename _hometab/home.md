@@ -40,17 +40,17 @@ Postdoctoral Researcher and Sessional Lecturer at the [College of Engineering](h
 
 ---
 ### Research Interests
-My research focuses on the design of secure and intelligent computing systems for IoT and embedded applications. My work spans IoT security, embedded systems, edge intelligence, distributed computing, and hardware security architectures.
+My research focuses on the design, development, and evaluation of intelligent and secure computing systems for Internet of Things (IoT) and embedded applications. My work spans distributed and edge computing, IoT systems, embedded computing, and security and privacy, with an emphasis on integrating technologies to support reliable and resource-efficient computing.
 
-I investigate secure architectures that enable reliable and privacy-preserving deployment of resource-constrained devices, including wearable and environmental sensing platforms, edge computing systems, and intelligent IoT applications. My research explores the integration of cybersecurity techniques, including blockchain, federated learning, and end-to-end encryption, as well as hardware-based security approaches for trusted IoT systems.
+I investigate architectures and techniques for deploying intelligent services across connected devices and distributed infrastructures, including wearable healthcare systems, environmental sensing platforms, and edge-based IoT applications. My research explores technologies such as machine learning, federated learning, blockchain, and encryption to enable efficient data processing, distributed intelligence, and secure information exchange.
 
-My current research includes the development and evaluation of secure, ultra-low-power integrated circuits for wireless IoT applications, including 28 nm CMOS Physical Unclonable Functions (PUFs) for hardware-based authentication.
+My current research also explores hardware-based security for resource-constrained IoT devices, including the design and evaluation of Physical Unclonable Functions (PUFs) in 28 nm CMOS technology for hardware-based authentication.
 
 ---
 ### Short Bio
-I am a Postdoctoral Researcher and Sessional Lecturer at the University of Guelph. Through the Mitacs Accelerate program, I collaborate with Low Power Futures on research into secure hardware and IoT systems. My research interests include IoT security, embedded systems, hardware security, edge intelligence, and secure computing architectures.
+I am a Postdoctoral Researcher and Sessional Lecturer at the University of Guelph, where I collaborate with Low Power Futures through the Mitacs Accelerate program on research involving secure hardware and IoT systems. My research interests include IoT and embedded systems, distributed and edge computing, intelligent computing systems, and hardware security.
 
-I received my Ph.D. in Computer Engineering from the University of Guelph in 2023, where I also completed my M.A.Sc. in Engineering Systems and Computing (2020) and B.Eng. in Computer Engineering (2018).
+I received my Ph.D. in Computer Engineering from the University of Guelph in 2023, following an M.A.Sc. in Engineering Systems and Computing in 2020 and a B.Eng. in Computer Engineering in 2018, both from the University of Guelph.
 
 ---
 ## News
