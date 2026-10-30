@@ -12,7 +12,7 @@ order: 1
 
 Postdoctoral Researcher and Sessional Lecturer at the [College of Engineering](https://www.uoguelph.ca/engineering/) of the [University of Guelph](https://www.uoguelph.ca/), researching IoT and embedded systems, distributed and edge computing, and secure and intelligent computing architectures.
 
-**###### Social Contacts:**
+**Social Contacts:**
 
 <div>
     <a class="no-decor" href="javascript:location.href = 'mailto:' + ['baucas','uoguelph.ca'].join('@')" aria-label="email">
@@ -23,7 +23,7 @@ Postdoctoral Researcher and Sessional Lecturer at the [College of Engineering](h
     </a>
 </div>
 
-**###### Research Links:**
+**Research Links:**
 
 <div>
     <a class="no-decor" href="https://github.com/mjbaucas/">
