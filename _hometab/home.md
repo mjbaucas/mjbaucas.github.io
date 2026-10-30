@@ -10,7 +10,7 @@ order: 1
 
 # Marc Jayson Baucas
 
-Postdoctoral Researcher and Sessional Lecturer at the [College of Engineering](https://www.uoguelph.ca/engineering/) of the [University of Guelph](https://www.uoguelph.ca/), researching IoT and embedded systems, distributed and edge computing, and secure and intelligent computing architectures.
+Computer Engineer and Researcher with research interests in IoT and embedded systems, distributed and edge computing, intelligent systems, and secure computing architectures. My work focuses on the design, development, and evaluation of reliable, efficient, and secure computing systems.
 
 **Social Contacts:**
 
@@ -48,13 +48,13 @@ My research focuses on the design, development, and evaluation of computing syst
 
 I investigate architectures and techniques for deploying computing and intelligent services across connected devices and distributed infrastructures, with applications in wearable healthcare, environmental monitoring, and other IoT-enabled domains. My work explores technologies such as machine learning, federated learning, blockchain, and encryption to support distributed intelligence, efficient data processing, and secure information exchange.
 
-My current research also includes hardware-based security for IoT devices, particularly Physical Unclonable Functions (PUFs) for hardware-based authentication. This work involves the design and evaluation of Arbiter PUF architectures in 28 nm CMOS technology.
+My research also includes also includes hardware-based security for IoT devices, particularly Physical Unclonable Functions (PUFs) for hardware-based authentication. This work involves the design and evaluation of Arbiter PUF architectures in 28 nm CMOS technology.
 
 ---
 
 ### Short Bio
 
-I am a Postdoctoral Researcher and Sessional Lecturer at the University of Guelph, where I collaborate with Low Power Futures through the Mitacs Accelerate program. I received my Ph.D. in Computer Engineering from the University of Guelph in 2023, following an M.A.Sc. in Engineering Systems and Computing in 2020 and a B.Eng. in Computer Engineering in 2018, all from the University of Guelph.
+I am a Computer Engineer and Researcher with a background in academic research, engineering development, and university-level teaching. I previously held a Postdoctoral Researcher and Sessional Lecturer appointment at the University of Guelph, where I collaborated with Low Power Futures through the Mitacs Accelerate program on research into secure hardware for wireless IoT applications. I received my Ph.D. in Computer Engineering from the University of Guelph in 2023, following an M.A.Sc. in Engineering Systems and Computing in 2020 and a B.Eng. in Computer Engineering in 2018, all from the University of Guelph.
 
 ---
 
