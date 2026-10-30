@@ -1,3 +1,4 @@
+
 ---
 layout: home
 icon: fa fa-home
@@ -10,12 +11,12 @@ order: 1
 
 # Marc Jayson Baucas
 
-Postdoctoral Researcher and Sessional Lecturer at the [College of Engineering](https://www.uoguelph.ca/engineering/) of the [University of Guelph](https://www.uoguelph.ca/), researching IoT and embedded systems, distributed and edge computing, and secure and intelligent computing architectures.
+Computer Engineer and Researcher with expertise in IoT and embedded systems, distributed and edge computing, intelligent systems, and secure computing architectures. My research focuses on the design, development, and evaluation of reliable, efficient, and secure computing systems.
 
 **Social Contacts:**
 
 <div>
-    <a class="no-decor" href="javascript:location.href = 'mailto:' + ['baucas','uoguelph.ca'].join('@')" aria-label="email">
+    <a class="no-decor" href="mailto:YOUR_PERSONAL_EMAIL" aria-label="email">
         <i class="fas fa-envelope-square fa-2x" style="padding: 3px;"></i>
     </a>
     <a class="no-decor" href="https://www.linkedin.com/in/marc-jayson-baucas-1189a0a6/">
@@ -44,17 +45,19 @@ Postdoctoral Researcher and Sessional Lecturer at the [College of Engineering](h
 
 ### Research Interests
 
-My research focuses on the design, development, and evaluation of computing systems for Internet of Things (IoT) and embedded applications. I am particularly interested in distributed and edge computing, intelligent systems, and approaches to improving the efficiency, reliability, security, and privacy of connected devices.
+My research focuses on the design, development, and evaluation of computing systems for Internet of Things (IoT) and embedded applications. My interests span distributed and edge computing, intelligent systems, and approaches to improving the efficiency, reliability, security, and privacy of connected devices.
 
 I investigate architectures and techniques for deploying computing and intelligent services across connected devices and distributed infrastructures, with applications in wearable healthcare, environmental monitoring, and other IoT-enabled domains. My work explores technologies such as machine learning, federated learning, blockchain, and encryption to support distributed intelligence, efficient data processing, and secure information exchange.
 
-My current research also includes hardware-based security for IoT devices, particularly Physical Unclonable Functions (PUFs) for hardware-based authentication. This work involves the design and evaluation of Arbiter PUF architectures in 28 nm CMOS technology.
+My research also encompasses hardware-based security for IoT devices, particularly Physical Unclonable Functions (PUFs) for hardware-based authentication. This includes the design and evaluation of Arbiter PUF architectures using 28 nm CMOS technology, incorporating circuit design, SPICE simulation, and post-layout verification.
 
 ---
 
 ### Short Bio
 
-I am a Postdoctoral Researcher and Sessional Lecturer at the University of Guelph, where I collaborate with Low Power Futures through the Mitacs Accelerate program. I received my Ph.D. in Computer Engineering from the University of Guelph in 2023, following an M.A.Sc. in Engineering Systems and Computing in 2020 and a B.Eng. in Computer Engineering in 2018, all from the University of Guelph.
+I am a Computer Engineer and Researcher with a background in academic research, engineering development, and university-level teaching. I previously held a Postdoctoral Researcher and Sessional Lecturer appointment at the University of Guelph, where I collaborated with Low Power Futures through the Mitacs Accelerate program on secure hardware for wireless IoT applications.
+
+I received my Ph.D. in Computer Engineering from the University of Guelph in 2023, following an M.A.Sc. in Engineering Systems and Computing in 2020 and a B.Eng. in Computer Engineering in 2018, all from the University of Guelph.
 
 ---
 
