@@ -23,7 +23,7 @@ Computer Engineer and Researcher with research interests in IoT and embedded sys
     </a>
 </div>
 
-** Research Links:**
+**Research Links:**
 
 <div>
     <a class="no-decor" href="https://github.com/mjbaucas/">
